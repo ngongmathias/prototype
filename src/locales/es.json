@@ -1,0 +1,872 @@
+{
+  "common": {
+    "search": "Buscar",
+    "find": "Encontrar",
+    "view": "Ver",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "submit": "Enviar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "close": "Cerrar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "yes": "Sí",
+    "no": "No",
+    "ok": "OK"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "advertise": "Anunciar",
+    "writeReview": "Escribir una Reseña",
+    "searchByCity": "Buscar por Ciudad",
+    "searchByCountry": "Buscar por País",
+    "marketplace": "Mercado",
+    "events": "Eventos",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse",
+    "profile": "Perfil",
+    "logout": "Cerrar Sesión"
+  },
+  "languages": {
+    "english": "Inglés",
+    "french": "Francés",
+    "spanish": "Español",
+    "swahili": "Swahili",
+    "selectLanguage": "Seleccionar Idioma"
+  },
+  "homepage": {
+    "hero": {
+      "title": "Descubrir Local",
+      "subtitle": "Encuentra los mejores negocios en tu área",
+      "searchPlaceholder": "Encontrar un negocio",
+      "locationPlaceholder": "Ubicación",
+      "searchButton": "BUSCAR"
+    },
+    "categories": {
+      "title": "Explorar Categorías",
+      "viewMore": "Ver Más",
+      "viewLess": "Ver Menos",
+      "viewAllCategories": "Ver Todas las Categorías"
+    },
+    "businesses": {
+      "title": "Negocios Destacados",
+      "viewAll": "Ver Todos"
+    }
+  },
+  "business": {
+    "owners": "Propietarios de Negocios",
+    "manageListing": {
+      "title": "Gestiona tu anuncio gratuito.",
+      "step1": "Actualiza la información de tu negocio en pocos pasos.",
+      "step2": "Facilita que tus clientes te encuentren en la aplicación Bara.",
+      "new": "¡Nuevo!",
+      "jobPosting": "Publica una oferta de trabajo en tu anuncio gratuito."
+    },
+    "claimListing": "Reclamar Tu Anuncio",
+    "orCall": "o llama",
+    "toast": {
+      "title": "Llama para más detalles",
+      "description": "Por favor llama a (+250) 791 568 519 para más información sobre reclamar tu anuncio.",
+      "callNow": "Llamar Ahora"
+    },
+    "details": {
+      "phone": "Teléfono",
+      "email": "Correo Electrónico",
+      "website": "Sitio Web",
+      "address": "Dirección",
+      "hours": "Horarios",
+      "services": "Servicios",
+      "reviews": "Reseñas",
+      "rating": "Calificación",
+      "orderOnline": "Pedir en Línea",
+      "visitWebsite": "Visitar Sitio Web",
+      "getDirections": "Obtener Direcciones",
+      "share": "Compartir"
+    },
+    "status": {
+      "active": "Activo",
+      "pending": "Pendiente",
+      "suspended": "Suspendido",
+      "premium": "Premium"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Acerca de Bara",
+      "subtitle": "Conectando comunidades con negocios locales de confianza",
+      "learnMore": "Saber más",
+      "contactUs": "Contáctanos"
+    },
+    "overview": {
+      "title": "Nuestra historia",
+      "description": "Bara es la principal plataforma de directorio de negocios de Ruanda, dedicada a conectar comunidades locales con negocios de confianza. Creemos en el poder del comercio local y nos esforzamos por facilitar que las personas descubran y se conecten con los mejores servicios en su área.",
+      "mission": "Nuestra misión es empoderar a los negocios locales proporcionándoles una presencia digital mientras ayudamos a los consumidores a tomar decisiones informadas sobre dónde comprar, cenar y recibir servicios.",
+      "established": "Est. 2024",
+      "location": "Ruanda"
+    },
+    "stats": {
+      "users": "Usuarios activos",
+      "businesses": "Negocios listados",
+      "cities": "Ciudades cubiertas",
+      "satisfaction": "Satisfacción del cliente"
+    },
+    "values": {
+      "title": "Nuestros valores",
+      "subtitle": "Los principios que guían todo lo que hacemos",
+      "trust": {
+        "title": "Confianza y confiabilidad",
+        "description": "Construimos relaciones duraderas basadas en la transparencia y la confiabilidad."
+      },
+      "quality": {
+        "title": "Servicio de calidad",
+        "description": "Mantenemos altos estándares en todo lo que hacemos para nuestra comunidad."
+      },
+      "innovation": {
+        "title": "Innovación",
+        "description": "Mejoramos continuamente nuestra plataforma para servir mejor a nuestros usuarios."
+      },
+      "community": {
+        "title": "Comunidad primero",
+        "description": "Priorizamos las necesidades y el crecimiento de nuestras comunidades locales."
+      },
+      "excellence": {
+        "title": "Excelencia",
+        "description": "Nos esforzamos por la excelencia en todos los aspectos de nuestro negocio."
+      },
+      "growth": {
+        "title": "Crecimiento sostenible",
+        "description": "Apoyamos el desarrollo sostenible de los negocios locales."
+      }
+    },
+    "team": {
+      "title": "Nuestro equipo",
+      "subtitle": "Conoce a los profesionales dedicados detrás de Bara",
+      "leadership": {
+        "title": "Equipo de liderazgo",
+        "description": "Ejecutivos experimentados guiando nuestra visión estratégica y crecimiento."
+      },
+      "development": {
+        "title": "Equipo de desarrollo",
+        "description": "Desarrolladores calificados construyendo soluciones innovadoras para nuestra plataforma."
+      },
+      "support": {
+        "title": "Soporte al cliente",
+        "description": "Personal de soporte amigable asegurando una excelente experiencia de usuario."
+      }
+    },
+    "contact": {
+      "title": "Ponte en contacto",
+      "subtitle": "Nos encantaría saber de ti. Contáctanos para saber más sobre Bara.",
+      "phone": {
+        "title": "Teléfono",
+        "hours": "Lun - Dom 24/7"
+      },
+      "email": {
+        "title": "Email",
+        "response": "Respuesta en 24 horas"
+      },
+      "location": {
+        "title": "Oficina",
+        "address": "Kigali, Ruanda",
+        "visit": "Visita con cita previa"
+      }
+    }
+  },
+  "claimListing": {
+    "page": {
+      "title": "Reclamar Tu Anuncio de Negocio",
+      "subtitle": "Toma el control de tu anuncio de negocio y conéctate con más clientes",
+      "hero": {
+        "callUs": "Llámanos:",
+        "hours": "Lunes - Domingo 24/7"
+      },
+      "benefits": {
+        "title": "¿Por Qué Reclamar Tu Anuncio?",
+        "subtitle": "Cuando reclamas tu anuncio de negocio, desbloqueas herramientas poderosas para hacer crecer tu negocio",
+        "fullControl": {
+          "title": "Control Total del Negocio",
+          "description": "Actualiza la información, horarios y servicios de tu negocio en cualquier momento"
+        },
+        "enhancedVisibility": {
+          "title": "Visibilidad Mejorada",
+          "description": "Obtén ubicación prioritaria en resultados de búsqueda y anuncios destacados"
+        },
+        "customerReviews": {
+          "title": "Reseñas de Clientes",
+          "description": "Responde a las reseñas y gestiona tu reputación en línea"
+        },
+        "verifiedBadge": {
+          "title": "Insignia Verificada",
+          "description": "Obtén una insignia verificada para generar confianza con clientes potenciales"
+        }
+      },
+      "form": {
+        "title": "Reclamar Tu Negocio",
+        "subtitle": "Completa el formulario a continuación para comenzar el proceso de reclamación",
+        "formTitle": "Formulario de Reclamación de Negocio",
+        "requiredFields": "Todos los campos marcados con * son obligatorios",
+        "businessName": "Nombre del Negocio *",
+        "businessAddress": "Dirección del Negocio *",
+        "contactName": "Tu Nombre *",
+        "contactEmail": "Dirección de Email *",
+        "contactPhone": "Número de Teléfono",
+        "website": "Sitio Web",
+        "reasonForClaim": "Razón de la Reclamación *",
+        "additionalInfo": "Información Adicional",
+        "placeholders": {
+          "businessName": "Ingresa el nombre de tu negocio",
+          "businessAddress": "Ingresa la dirección de tu negocio",
+          "contactName": "Ingresa tu nombre completo",
+          "contactEmail": "Ingresa tu dirección de email",
+          "contactPhone": "Ingresa tu número de teléfono",
+          "website": "https://tu-sitio-web.com",
+          "reasonForClaim": "Por favor explica por qué estás reclamando este anuncio de negocio...",
+          "additionalInfo": "Cualquier información adicional que pueda ayudarnos a verificar tu reclamación..."
+        },
+        "submit": "Enviar Solicitud de Reclamación",
+        "submitting": "Enviando..."
+      },
+      "contact": {
+        "title": "¿Necesitas Ayuda?",
+        "subtitle": "Nuestro equipo está aquí para ayudarte a reclamar tu anuncio de negocio y responder cualquier pregunta que tengas.",
+        "callUs": {
+          "title": "Llámanos",
+          "phone": "(+250) 791 568 519",
+          "hours": "Lunes - Domingo 24/7"
+        },
+        "emailUs": {
+          "title": "Escríbenos",
+          "email": "advertise@bara.com",
+          "response": "Responderemos en 24 horas"
+        },
+        "processingTime": {
+          "title": "Tiempo de Procesamiento",
+          "time": "2-3 Días Laborables",
+          "description": "Para verificación de reclamación"
+        }
+      },
+      "faq": {
+        "title": "Preguntas Frecuentes",
+        "processingTime": {
+          "question": "¿Cuánto tiempo toma procesar una reclamación?",
+          "answer": "Típicamente procesamos reclamaciones en 2-3 días laborables. Recibirás una notificación por email una vez que tu reclamación haya sido revisada."
+        },
+        "requiredInfo": {
+          "question": "¿Qué información necesito proporcionar?",
+          "answer": "Necesitas proporcionar el nombre de tu negocio, dirección, información de contacto y explicar por qué estás reclamando este anuncio. Se puede solicitar documentación adicional para verificación."
+        },
+        "cost": {
+          "question": "¿Hay un costo para reclamar mi anuncio?",
+          "answer": "Reclamar tu anuncio básico es gratuito. Sin embargo, funciones premium y opciones de visibilidad mejorada están disponibles por una tarifa."
+        },
+        "notListed": {
+          "question": "¿Qué pasa si mi negocio no está listado aún?",
+          "answer": "Si tu negocio no está actualmente listado, aún puedes enviar una solicitud de reclamación y te ayudaremos a agregarlo a nuestro directorio."
+        }
+      },
+      "validation": {
+        "title": "Error de Validación",
+        "requiredFields": "Por favor completa todos los campos obligatorios."
+      },
+      "success": {
+        "title": "Solicitud de Reclamación Enviada",
+        "description": "Tu solicitud de reclamación ha sido enviada exitosamente. Te contactaremos en 2-3 días laborables."
+      },
+      "error": {
+        "title": "Error",
+        "description": "Falló el envío de la solicitud de reclamación. Por favor intenta de nuevo."
+      }
+    }
+  },
+  "qa": {
+    "askQuestions": "Haz preguntas a la comunidad Bara",
+    "shareKnowledge": "Comparte tu conocimiento para ayudar a otros",
+    "findAnswers": "Encuentra respuestas u ofrece soluciones",
+    "askQuestion": "Hacer una Pregunta",
+    "browsePopular": "Explorar Preguntas y Respuestas Populares"
+  },
+  "questions": {
+    "page": {
+      "title": "Hacer una Pregunta",
+      "subtitle": "Obtén Ayuda de la Comunidad",
+      "description": "Haz tu pregunta y obtén respuestas de nuestra comunidad de expertos y usuarios.",
+      "infoTitle": "Cómo funciona:",
+      "info1": "Envía tu pregunta con un título claro y descripción detallada",
+      "info2": "Los miembros de nuestra comunidad proporcionarán respuestas útiles",
+      "info3": "Recibirás notificaciones por email cuando alguien responda",
+      "footer": "© 2024 Comunidad Bara. Todos los derechos reservados."
+    },
+    "form": {
+      "titleLabel": "Título de la Pregunta",
+      "titlePlaceholder": "Ingresa un título claro y descriptivo para tu pregunta",
+      "contentLabel": "Detalles de la Pregunta",
+      "contentPlaceholder": "Proporciona información detallada sobre tu pregunta. Sé específico para obtener mejores respuestas.",
+      "categoryLabel": "Categoría",
+      "selectCategory": "Selecciona una categoría",
+      "nameLabel": "Tu Nombre",
+      "namePlaceholder": "Ingresa tu nombre completo",
+      "emailLabel": "Dirección de Email",
+      "emailPlaceholder": "Ingresa tu dirección de email",
+      "submit": "Enviar Pregunta",
+      "submitting": "Enviando...",
+      "submitted": "¡Pregunta enviada exitosamente!",
+      "titleRequired": "Por favor ingresa un título para la pregunta",
+      "contentRequired": "Por favor ingresa los detalles de la pregunta",
+      "nameRequired": "Por favor ingresa tu nombre",
+      "emailRequired": "Por favor ingresa tu dirección de email",
+      "categoryRequired": "Por favor selecciona una categoría",
+      "submissionError": "Error al enviar la pregunta. Por favor intenta de nuevo.",
+      "characters": "caracteres"
+    }
+  },
+  "reviews": {
+    "title": "Reseñas",
+    "writeReview": "Escribir una Reseña",
+    "rating": "Calificación",
+    "helpful": "Útil",
+    "notHelpful": "No Útil",
+    "report": "Reportar",
+    "sortBy": "Ordenar por",
+    "filterBy": "Filtrar por",
+    "allReviews": "Todas las Reseñas",
+    "positiveReviews": "Reseñas Positivas",
+    "negativeReviews": "Reseñas Negativas",
+    "searchBusiness": "Buscar un Negocio",
+    "selectBusiness": "Seleccionar un Negocio para Reseñar",
+    "businessName": "Nombre del Negocio",
+    "location": "Ubicación",
+    "searchResults": "Resultados de Búsqueda",
+    "noResults": "No se encontraron negocios",
+    "reviewTitle": "Título de la Reseña",
+    "reviewContent": "Detalles de la Reseña",
+    "submitReview": "Enviar Reseña",
+    "reviewSubmitted": "¡Reseña Enviada!",
+    "reviewPending": "Tu reseña será publicada después de la moderación",
+    "ratingRequired": "Por favor proporciona una calificación",
+    "titleRequired": "Por favor proporciona un título para la reseña",
+    "contentRequired": "Por favor proporciona contenido para la reseña",
+    "loginRequired": "Por favor inicia sesión para enviar una reseña",
+    "searchError": "Error de Búsqueda",
+    "searchFailed": "Falló la búsqueda de negocios",
+    "submissionError": "Error de Envío",
+    "submissionFailed": "Falló el envío de la reseña",
+    "backToSearch": "Volver a Búsqueda",
+    "cancel": "Cancelar",
+    "submitting": "Enviando...",
+    "characterCount": "caracteres",
+    "outOf5": "de 5",
+    "helpFinding": "Ayuda para encontrar",
+    "writeShare": "Escribir y compartir",
+    "reviewingBusiness": "Reseñar un negocio",
+    "addPhotos": "Agregar fotos",
+    "findBusiness": "Encontrar un negocio",
+    "feedbackImprove": "Comentarios para mejorar",
+    "feedbackMessage": "Las empresas necesitan tus comentarios, tanto buenos como malos, para que puedan mejorar o recibir reconocimiento por un trabajo bien hecho",
+    "shareMessage": "¡Comparte tus experiencias y siéntete bien sabiendo que estás marcando una diferencia en tu comunidad!",
+    "postReview": "Publicar una reseña",
+    "shareExperience": "Compartir tu experiencia"
+  },
+  "auth": {
+    "login": {
+      "title": "Iniciar Sesión",
+      "email": "Correo Electrónico",
+      "password": "Contraseña",
+      "forgotPassword": "¿Olvidaste tu Contraseña?",
+      "noAccount": "¿No tienes una cuenta?",
+      "signup": "Registrarse"
+    },
+    "signup": {
+      "title": "Registrarse",
+      "fullName": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar Contraseña",
+      "agreeTerms": "Acepto los términos y condiciones",
+      "alreadyAccount": "¿Ya tienes una cuenta?",
+      "login": "Iniciar Sesión"
+    }
+  },
+  "footer": {
+    "localCommunities": "Comunidades Locales",
+    "cities": "Ciudades",
+    "kigaliRwanda": "Kigali, Ruanda",
+    "nairobiKenya": "Nairobi, Kenia",
+    "kampalaUganda": "Kampala, Uganda",
+    "darEsSalaamTanzania": "Dar es Salaam, Tanzania",
+    "addisAbabaEthiopia": "Addis Abeba, Etiopía",
+    "accraGhana": "Accra, Ghana",
+    "lagosNigeria": "Lagos, Nigeria",
+    "capeTownSouthAfrica": "Ciudad del Cabo, Sudáfrica",
+    "rwandafulRwanda": "Ruanda Hermoso",
+    "beautifulBotswana": "Botsuana Hermoso",
+    "kenyafulKenya": "Kenia Hermoso",
+    "ugandafulUganda": "Uganda Hermoso",
+    "tanzaniafulTanzania": "Tanzania Hermoso",
+    "ethiopiafulEthiopia": "Etiopía Hermoso",
+    "ghanafulGhana": "Ghana Hermoso",
+    "nigeriafulNigeria": "Nigeria Hermoso",
+    "about": "Acerca de",
+    "aboutUs": "Acerca de Nosotros",
+    "contactUs": "Contáctanos",
+    "advertiseWithUs": "Anuncia con Nosotros",
+    "corporateBlog": "Blog Corporativo",
+    "advertisingChoices": "Opciones de Publicidad",
+    "AskUsAnyQuestion": "Pregúntanos cualquier pregunta",
+    "ClaimYourListing": "Reclama tu listado",
+    "siteDirectory": "Directorio del Sitio",
+    "articles": "Artículos",
+    "findBusiness": "Encontrar un Negocio",
+    "ypMobileApp": "Aplicación Móvil Bara",
+    "gasGuruMobileApp": "Aplicación Móvil Gas Guru",
+    "siteMap": "Mapa del Sitio",
+    "categories": "Categorías",
+    "browseRestaurants": "Explorar Restaurantes",
+    "contact": "Contacto",
+    "privacy": "Privacidad",
+    "terms": "Términos de Uso",
+    "legal": "Legal",
+    "copyright": "© 2025 Bara, Inc. Todos los derechos reservados.",
+    "trademark": "Bara, el logo de Bara, The Real Bara Listings, y todas las demás marcas Bara son marcas registradas de Bara, Inc.",
+    "otherMarks": "Todas las demás marcas contenidas aquí son propiedad de sus respectivos dueños."
+  },
+  "categories": {
+    "title": "Todas las Categorías",
+    "searchPlaceholder": "Buscar categorías...",
+    "noResults": {
+      "title": "No se encontraron categorías",
+      "description": "Intenta ajucrowntus términos de búsqueda o explora todas las categorías"
+    },
+    "airports": "Aeropuertos",
+    "banks": "Bancos",
+    "bars": "Bares",
+    "barbers": "Barberos",
+    "bookstores": "Librerías",
+    "cafes": "Cafés",
+    "cinemas-theatres": "Cines y Teatros",
+    "clinics": "Clínicas",
+    "clubs-professional": "Clubes (Profesional / Privado)",
+    "clubs-leisure": "Clubes (Ocio / Baile)",
+    "dentists": "Dentistas",
+    "doctors": "Doctores",
+    "faith": "Fe",
+    "farms": "Granjas",
+    "galleries-art": "Galerías de Arte",
+    "government": "Gobierno",
+    "hospitals": "Hospitales",
+    "hotels": "Hoteles",
+    "lawyers": "Abogados",
+    "libraries": "Bibliotecas",
+    "markets": "Mercados",
+    "museums": "Museos",
+    "parks": "Parques",
+    "pharmacies": "Farmacias",
+    "post-offices": "Oficinas de Correos",
+    "recreation": "Recreación",
+    "real-estate": "Bienes Raíces",
+    "restaurants": "Restaurantes",
+    "salons": "Salones",
+    "schools": "Escuelas",
+    "services": "Servicios",
+    "shopping": "Compras",
+    "tours": "Tours",
+    "transportation": "Transporte",
+    "universities": "Universidades",
+    "utilities": "Servicios Públicos",
+    "auto-repair": "Reparación de Autos",
+    "coffee-shops": "Cafeterías",
+    "gyms-fitness": "Gimnasios y Fitness",
+    "beauty-salons": "Salones de Belleza",
+    "pet-services": "Servicios para Mascotas"
+  },
+  "admin": {
+    "dashboard": "Panel de Control",
+    "cities": "Ciudades",
+    "countries": "Países",
+    "businesses": "Negocios",
+    "reviews": "Reseñas",
+    "users": "Usuarios",
+    "settings": "Configuración",
+    "statistics": "Estadísticas",
+    "recentActivity": "Actividad Reciente",
+    "quickActions": "Acciones Rápidas",
+    "systemStatus": "Estado del Sistema",
+    "addNew": "Agregar Nuevo",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "status": "Estado",
+    "actions": "Acciones",
+    "name": "Nombre",
+    "code": "Código",
+    "population": "Población",
+    "capital": "Capital",
+    "currency": "Moneda",
+    "language": "Idioma",
+    "latitude": "Latitud",
+    "longitude": "Longitud",
+    "category": "Categoría",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "website": "Sitio Web",
+    "rating": "Calificación",
+    "title": "Título",
+    "content": "Contenido",
+    "user": "Usuario",
+    "business": "Negocio",
+    "date": "Fecha",
+    "approved": "Aprobado",
+    "pending": "Pendiente",
+    "rejected": "Rechazado",
+    "flagged": "Marcado",
+    "total": "Total",
+    "active": "Activo",
+    "inactive": "Inactivo"
+  },
+  "lookForBusinesses": "Busca empresas por nombre y ubicación.",
+  "findBusiness": "Encontrar el Negocio",
+  "sentenceOne": "Califica y Escribe una Reseña",
+  "sentenceTwo": "Publica tu Reseña",
+  "ReviewMessageOne": "Reseña",
+  "reviewMessage": "un Negocio y Ayuda a Otros!",
+  "listings": {
+    "searchResults": "Resultados de Búsqueda",
+    "mapView": "Vista de Mapa",
+    "listView": "Vista de Lista",
+    "all": "Todos",
+    "orderOnline": "Pedir en Línea",
+    "kidFriendly": "Apto para Niños",
+    "coupons": "Cupones",
+    "premium": "Premium",
+    "verified": "Verificado",
+    "sort": "Ordenar:",
+    "default": "Predeterminado",
+    "distance": "Distancia",
+    "rating": "Calificación",
+    "nameAZ": "Nombre (A - Z)",
+    "businessesFound": "negocios encontrados",
+    "noBusinessesFound": "No se encontraron negocios",
+    "noBusinessesMatching": "No se encontraron negocios que coincidan con",
+    "noBusinessesInCategory": "No se encontraron negocios en",
+    "clearFilters": "Limpiar Filtros",
+    "moreInfo": "Más Información",
+    "writeReview": "Escribir Reseña",
+    "inCity": "en",
+    "showingBusinesses": "Mostrando",
+    "businessesInCity": "negocios en",
+    "businessesFoundCount": "Negocios encontrados",
+    "selectCity": "Seleccionar una Ciudad",
+    "citiesWithBusinesses": "Ciudades con",
+    "businessesInCategory": "negocios",
+    "showAllCities": "Mostrar todas las ciudades",
+    "allCities": "Todas las ciudades",
+    "business": "negocio",
+    "businesses": "negocios",
+    "errorLoadingBusinesses": "Error al Cargar Negocios",
+    "errorMessage": "Ocurrió un error al cargar los negocios. Por favor, inténtalo de nuevo.",
+    "tryAgain": "Intentar de Nuevo",
+    "loadingCities": "Cargando ciudades...",
+    "searchPlaceholder": "Buscar",
+    "findButton": "BUSCAR"
+  },
+     "cityDetail": {
+     "cityMapLocation": "Mapa de la Ciudad y Ubicación",
+     "businessListings": "Listado de Negocios",
+     "searchBusinessesCity": "Buscar negocios en esta ciudad...",
+     "allCategories": "Todas las Categorías",
+     "gridView": "Vista de Cuadrícula",
+     "listView": "Vista de Lista",
+     "businesses": "Negocios",
+     "noBusinessesFound": "No se encontraron negocios",
+     "tryAdjustingSearch": "Intenta ajucrowntus términos de búsqueda o filtros.",
+     "backToCity": "Volver a la Ciudad",
+     "cityDescription": "Descripción de la Ciudad",
+     "businessCount": "Negocios",
+     "viewAllBusinesses": "Ver Todos los Negocios",
+     "filterByCategory": "Filtrar por Categoría",
+     "searchBusinesses": "Buscar Negocios",
+     "errorLoadingBusinesses": "Error al Cargar Negocios",
+     "errorMessage": "Ocurrió un error al cargar los negocios. Por favor, inténtalo de nuevo.",
+     "tryAgain": "Intentar de Nuevo",
+     "clearFilters": "Limpiar Filtros",
+     "moreInfo": "Más Información",
+     "writeReview": "Escribir Reseña",
+     "business": "negocio",
+     "reviews": "reseñas",
+     "cities": {
+       "kigali": "Kigali, la capital y ciudad más grande de Ruanda, es un brillante ejemplo de transformación urbana en África Oriental. Famosa por sus calles impecablemente limpias, Kigali se ha ganado la reputación de ser una de las capitales más ordenadas del continente. La ciudad es un centro dinámico para los negocios, la tecnología y el turismo, con infraestructura moderna que incluye rascacielos elegantes, carreteras bien mantenidas y un ecosistema tecnológico en auge, a menudo llamado el \"Silicon Valley de África Oriental\". Su vibrante cultura se refleja en mercados animados, danza y música tradicional ruandesa, y festivales anuales como KigaliUp. El rápido desarrollo de Kigali, junto con su compromiso con la sostenibilidad y espacios verdes, como los jardines del Memorial del Genocidio de Kigali, la convierte en un modelo de progreso urbano en la región.",
+       "nairobi": "Nairobi, la capital y ciudad más grande de Kenia, es cariñosamente conocida como la \"Ciudad Verde bajo el Sol\" debido a su exuberante vegetación y clima agradable. Como una importante potencia económica en África Oriental, Nairobi alberga las sedes regionales de numerosas corporaciones multinacionales y la Bolsa de Valores de Nairobi. Su población diversa, proveniente de los muchos grupos étnicos de Kenia, contribuye a un rico tapiz cultural evidente en su cocina, música y festivales como el Festival Internacional de Cine de Nairobi. Nairobi sirve como puerta de entrada a los parques de vida silvestre de renombre mundial de Kenia, como el Maasai Mara y el Parque Nacional de Nairobi, donde los visitantes pueden avicrownleones y jirafas con el horizonte de la ciudad de fondo.",
+       "kampala": "Kampala, la capital y ciudad más grande de Uganda, está famosamente construida sobre siete colinas, dándole una topografía distintiva y encanto. La ciudad es un vibrante centro comercial y cultural, hogar de mercados bulliciosos como Owino y Nakasero, donde los vendedores venden todo, desde productos frescos hasta artesanías tradicionales. La rica historia de Kampala se muestra en sitios como el Museo de Uganda y las Tumbas de Kasubi, un Sitio del Patrimonio Mundial de la UNESCO. Como centro de educación, alberga la Universidad de Makerere, una de las instituciones más antiguas y prestigiosas de África. Con una economía en crecimiento impulsada por el comercio, la manufactura y los servicios, la población diversa de Kampala y su animada vida nocturna la convierten en un centro urbano dinámico en África Oriental.",
+       "dar-es-salaam": "Dar es Salaam, la ciudad más grande y centro económico de Tanzania, prospera a lo largo de la costa del Océano Índico, combinando la belleza costera con la vitalidad urbana. Conocida por sus playas prístinas como Coco Beach y su bullicioso puerto, la ciudad sirve como el puerto principal de Tanzania, facilitando el comercio en África Oriental y más allá. Su cultura diversa, influenciada por comunidades africanas, árabes e indias, es evidente en su cocina, música y festivales como la Semana de la Moda Swahili. El horizonte de Dar es Salaam, salpicado de rascacielos modernos, refleja su sector empresarial en crecimiento, particularmente en finanzas y tecnología, mientras que sitios históricos como el Monumento Askari y el Museo Nacional destacan su rico patrimonio colonial y pre-colonial.",
+       "addis-ababa": "Addis Abeba, la capital y ciudad más grande de Etiopía, es el corazón político de África, albergando la sede de la Unión Africana y numerosas misiones diplomáticas. Ubicada en las tierras altas, la ciudad está impregnada de historia, con lugares emblemáticos como la Catedral de la Santísima Trinidad y el Museo Nacional, hogar del famoso fósil Lucy. La cultura diversa de Addis Abeba se refleja en sus vibrantes mercados, ceremonias tradicionales de café y festivales anuales como Meskel. La economía de la ciudad está en auge, con sectores como la manufactura, la tecnología y la hospitalidad impulsando el crecimiento. Su mezcla de tradiciones antiguas y desarrollo moderno hace de Addis Abeba un centro urbano único e influyente en África Oriental.",
+       "accra": "Accra, la capital y ciudad más grande de Ghana, es una metrópolis costera vibrante conocida por sus playas doradas, como Labadi Beach, y una escena cultural dinámica. Como un importante centro financiero en África Occidental, Accra es hogar de la Bolsa de Valores de Ghana y numerosas sedes corporativas. Su rica cultura brilla a través de su música, con géneros como highlife e hiplife, y festivales como el Festival de Arte Callejero Chale Wote. La infraestructura moderna de Accra, incluyendo centros comerciales y edificios de gran altura, contrasta con sitios históricos como el Mausoleo de Kwame Nkrumah, creando una ciudad que combina tradición con rápido crecimiento urbano y una próspera comunidad artística.",
+       "lagos": "Lagos, la ciudad más grande y potencia económica de Nigeria, es una megalópolis bulliciosa conocida por su energía vibrante y diversidad cultural. Como el centro financiero líder de África Occidental, alberga la Bolsa de Valores de Nigeria y numerosas corporaciones multinacionales. Lagos es famosa por su escena musical dinámica, dando a luz géneros como Afrobeats, y su próspera industria cinematográfica de Nollywood. Los mercados de la ciudad, como Balogun y Computer Village, son colmenas de actividad, ofreciendo todo, desde textiles hasta electrónicos. A pesar de su vida urbana de ritmo rápido, Lagos cuenta con playas impresionantes como Tarkwa Bay y lugares de interés cultural como el Teatro Nacional, convirtiéndolo en una piedra angular del comercio y la cultura de África Occidental.",
+       "cape-town": "Ciudad del Cabo, la capital legislativa de Sudáfrica, es famosa por su impresionante belleza natural, dominada por la icónica Montaña de la Mesa y rodeada por el Océano Atlántico. Un importante destino turístico, la ciudad ofrece atracciones como el V&A Waterfront, la Isla Robben y los Viñedos del Cabo. Su cultura diversa, moldeada por influencias africanas, europeas y asiáticas, es evidente en su cocina, festivales y vibrante escena artística. Ciudad del Cabo también es un centro empresarial significativo, con un sector tecnológico en crecimiento y vínculos comerciales internacionales. Su impresionante costa, vibrantes municipios y rica historia la convierten en una de las ciudades más pintorescas y culturalmente ricas de África.",
+       "johannesburg": "Johannesburgo, la ciudad más grande y centro económico de Sudáfrica, a menudo es llamada la \"Ciudad del Oro\" debido a sus orígenes como ciudad minera de oro a fines del siglo XIX. Hoy, es la capital financiera de África, hogar de la Bolsa de Valores de Johannesburgo y numerosas sedes corporativas. La rica historia de la ciudad se explora en sitios como el Museo del Apartheid y Constitution Hill. El horizonte moderno de Johannesburgo, con rascacielos imponentes, contrasta con sus vibrantes municipios como Soweto, donde el patrimonio cultural prospera a través de la música, la danza y el arte callejero. Su economía dinámica y población cosmopolita la convierten en un actor clave en los mercados africanos y globales.",
+       "cairo": "El Cairo, la capital y ciudad más grande de Egipto, es una metrópolis histórica que combina maravillas antiguas con vibración moderna. Conocida como la \"Ciudad de los Mil Minaretes\", El Cairo es hogar de las Pirámides de Giza, la Esfinge y el Museo Egipcio, que alberga tesoros de la civilización egipcia antigua. Su vibrante cultura se refleja en sus bulliciosos zocos como Khan el-Khalili, arquitectura islámica y sitios del patrimonio copto. Como centro económico y cultural del Norte de África, El Cairo prospera con una mezcla de cafés tradicionales, centros comerciales modernos y una escena tecnológica en auge, convirtiéndolo en una ciudad donde la historia y la modernidad coexisten armoniosamente.",
+       "alexandria": "Alejandría, la segunda ciudad más grande de Egipto, es una joya mediterránea conocida por su rica historia y impresionante costa. Una vez hogar del antiguo Faro de Alejandría y la Gran Biblioteca, la ciudad conserva su significado cultural con lugares emblemáticos como la Bibliotheca Alexandrina, un tributo moderno a su predecesora antigua. La economía de Alejandría prospera en su puerto estratégico, un centro clave para el comercio mediterráneo, y su industria turística, que atrae visitantes a su corniche, fuertes históricos y ruinas grecorromanas. La mezcla de influencias africanas, árabes y europeas de la ciudad crea un mosaico cultural único, evidente en su cocina y vibrante escena artística.",
+       "casablanca": "Casablanca, la ciudad más grande y centro económico de Marruecos, es una metrópolis moderna en la costa atlántica, conocida por su arquitectura llamativa, incluyendo la gran Mezquita Hassan II con su minarete imponente. Como el puerto principal del país, impulsa la economía de Marruecos a través del comercio, las finanzas y la industria. La vibra cosmopolita de la ciudad se refleja en su mezcla de edificios Art Deco, mercados bulliciosos y vibrante vida nocturna. La creciente escena tecnológica y de startups de Casablanca, junto con su medina histórica y paseo marítimo, la convierten en un centro dinámico de comercio y cultura en el Norte de África.",
+       "marrakech": "Marrakech, una ciudad importante en Marruecos, es un tesoro cultural conocido por su medina histórica, un Sitio del Patrimonio Mundial de la UNESCO, y zocos vibrantes llenos de especias, textiles y artesanías intrincadas. La icónica plaza Jemaa el-Fnaa de la ciudad pulsa con narradores de historias, músicos y puestos de comida, encarnando el rico patrimonio de Marruecos. Marrakech es un destino turístico principal, con palacios impresionantes como Bahia y jardines como Jardin Majorelle. Su mezcla de influencias bereberes, árabes y francesas, junto con un sector de hospitalidad y artes en crecimiento, la convierte en un centro cultural y económico cautivador en Marruecos.",
+       "butare": "Butare, ahora conocido como Huye, es una ciudad en el sur de Ruanda celebrada por su importancia académica y cultural. Hogar del campus principal de la Universidad de Ruanda, es un centro para la educación y la investigación, atrayendo académicos de toda la región. Las instituciones culturales de Butare, como el Museo Etnográfico, muestran la historia y tradiciones de Ruanda a través de artefactos y exhibiciones. El encanto tranquilo de la ciudad, calles arboladas y sitios históricos, incluyendo edificios de la era colonial, la convierten en un centro para la exploración intelectual y cultural, con un enfoque creciente en el desarrollo impulsado por la comunidad y el turismo.",
+       "mombasa": "Mombasa, la joya costera de Kenia, es una ciudad portuaria histórica conocida por sus playas prístinas, como Diani y Nyali, y su puerto estratégico, una puerta de entrada comercial clave para África Oriental. La rica historia de la ciudad, moldeada por influencias africanas, árabes y europeas, es evidente en lugares emblemáticos como Fort Jesus, un Sitio del Patrimonio Mundial de la UNESCO, y la arquitectura swahili de la Ciudad Vieja. La vibrante cultura de Mombasa brilla a través de su cocina de mariscos, música taarab y festivales. Como un importante centro turístico y económico, combina relajación costera con una próspera industria de comercio y hospitalidad.",
+       "jinja": "Jinja, una ciudad en el este de Uganda, está famosamente ubicada en la fuente del río Nilo, convirtiéndola en un imán para el turismo de aventura. Conocida por el rafting en aguas bravas, bungee jumping y kayak, Jinja atrae a buscadores de emociones de todo el mundo. La economía de la ciudad está creciendo, impulsada por el turismo, la agricultura y las industrias a pequeña escala. Sitios históricos como el monumento de la Fuente del Nilo y edificios de la era colonial añaden a su encanto. La belleza escénica de Jinja, con exuberante vegetación y vistas del río, combinada con sus mercados vibrantes, la convierte en un destino único en África Oriental.",
+       "arusha": "Arusha, una ciudad en el norte de Tanzania, es la puerta de entrada a algunas de las maravillas naturales más icónicas de África, incluyendo el Monte Kilimanjaro, el Parque Nacional del Serengeti y el Cráter del Ngorongoro. Conocida como la \"Capital del Safari\", Arusha prospera en su industria turística, ofreciendo acceso a experiencias de vida silvestre de clase mundial. Los mercados vibrantes de la ciudad, como el Mercado Maasai, muestran artesanías y cultura local. Arusha también sirve como un centro diplomático, albergando la sede de la Comunidad de África Oriental. Su sector empresarial en crecimiento y el impresionante telón de fondo del Monte Meru la convierten en un centro económico y cultural vital.",
+       "dire-dawa": "Dire Dawa, una ciudad en el este de Etiopía, es un centro clave de transporte y comercio, estratégicamente ubicada a lo largo del ferrocarril Addis Abeba-Djibouti. Conocida por su población diversa, incluyendo comunidades etíopes, somalíes y oromo, la ciudad cuenta con una rica mezcla cultural evidente en sus mercados, cocina y festivales. La economía de Dire Dawa es impulsada por el comercio, la manufactura y la agricultura, con su estación de ferrocarril histórica y arquitectura colonial añadiendo profundidad histórica. La vibrante vida callejera de la ciudad, junto con su papel como centro logístico, la convierte en una parte esencial del paisaje económico de Etiopía.",
+       "kumasi": "Kumasi, la segunda ciudad más grande de Ghana, es el corazón cultural del Reino Ashanti, famoso por sus ricas tradiciones e historia. La ciudad es hogar del Palacio Manhyia, la sede del Asantehene, y mercados vibrantes como Kejetia, uno de los mercados al aire libre más grandes de África Occidental. El patrimonio cultural de Kumasi se celebra a través de festivales como Akwasidae y su intrincado tejido de tela kente. Como un centro económico en crecimiento, apoya industrias como la madera, la agricultura y el comercio minorista. La mezcla de Kumasi de patrimonio real, comercio bullicioso y escena artística vibrante la convierte en una piedra angular de la identidad ghanesa."
+     }
+   },
+  "businessFeatures": {
+    "hasCoupons": "Tiene Cupones",
+    "acceptsOrdersOnline": "Acepta Pedidos en Línea",
+    "isKidFriendly": "Apto para Niños",
+    "isPremium": "Negocio Premium",
+    "isVerified": "Negocio Verificado"
+  },
+  "admin": {
+    "businessFeatures": "Características del Negocio",
+    "hasCoupons": "Tiene Cupones",
+    "acceptsOrdersOnline": "Acepta Pedidos en Línea",
+    "isKidFriendly": "Apto para Niños",
+    "isPremium": "Negocio Premium",
+    "isVerified": "Negocio Verificado",
+    "addBusiness": "Agregar Negocio",
+    "editBusiness": "Editar Negocio",
+    "createBusiness": "Crear Negocio",
+    "updateBusiness": "Actualizar Negocio",
+    "businessName": "Nombre del Negocio",
+    "businessDescription": "Descripción del Negocio",
+    "businessCategory": "Categoría del Negocio",
+    "businessCity": "Ciudad del Negocio",
+    "businessCountry": "País del Negocio",
+    "businessPhone": "Teléfono del Negocio",
+    "businessEmail": "Correo del Negocio",
+    "businessWebsite": "Sitio Web del Negocio",
+    "businessAddress": "Dirección del Negocio",
+    "businessStatus": "Estado del Negocio",
+    "businessFeatures": "Características del Negocio",
+    "contactInformation": "Información de Contacto",
+    "locationInformation": "Información de Ubicación",
+    "businessDetails": "Detalles del Negocio",
+    "loadingBusinesses": "Cargando negocios...",
+    "businessManagement": "Gestión de Negocios",
+    "manageAllBusinesses": "Gestionar todos los negocios en el sistema",
+    "addNewBusiness": "Agregar Nuevo Negocio",
+    "updateBusinessInfo": "Actualizar información del negocio",
+    "createNewBusinessListing": "Crear una nueva lista de negocios",
+    "description": "Descripción",
+    "selectCategory": "Seleccionar categoría",
+    "selectCity": "Seleccionar ciudad",
+    "premiumBusiness": "Negocio Premium",
+    "verifiedBusiness": "Negocio Verificado",
+    "cancel": "Cancelar",
+    "update": "Actualizar",
+    "create": "Crear",
+    "error": "Error",
+    "success": "Éxito",
+    "validationError": "Error de Validación",
+    "pleaseFillRequiredFields": "Por favor complete todos los campos requeridos",
+    "businessUpdatedSuccessfully": "Negocio actualizado exitosamente",
+    "businessCreatedSuccessfully": "Negocio creado exitosamente",
+    "failedToSaveBusiness": "Error al guardar el negocio",
+    "confirmDeleteBusiness": "¿Está seguro de que desea eliminar este negocio?",
+    "businessDeletedSuccessfully": "Negocio eliminado exitosamente",
+    "failedToDeleteBusiness": "Error al eliminar el negocio",
+    "failedToFetchBusinesses": "Error al cargar los negocios",
+    "tryAdjustingSearchTerms": "Intente ajucrownsus términos de búsqueda o filtros.",
+    "reviews": "reseñas",
+    "searchBusinesses": "Buscar negocios...",
+    "filterByStatus": "Filtrar por estado",
+    "filterByCategory": "Filtrar por categoría",
+    "allStatuses": "Todos los Estados",
+    "allCategories": "Todas las Categorías",
+    "noBusinessesFound": "No se encontraron negocios",
+    "businesses": "negocios",
+    "city": "Ciudad",
+    "status": "Estado",
+    "pending": "Pendiente",
+    "suspended": "Suspendido",
+    "email": "Correo Electrónico",
+    "statusAndFeatures": "Estado y Características",
+    "seoAndAnalytics": "SEO y Análisis",
+    "metaTitle": "Título Meta",
+    "metaDescription": "Descripción Meta",
+    "viewCount": "Conteo de Vistas",
+    "clickCount": "Conteo de Clics",
+    "owner": "Propietario",
+    "createdAt": "Creado En",
+    "updatedAt": "Actualizado En",
+    "saveChanges": "Guardar Cambios",
+    "cancel": "Cancelar",
+    "deleteBusiness": "Eliminar Negocio",
+    "confirmDelete": "¿Estás seguro de que quieres eliminar este negocio?",
+    "deleteSuccess": "Negocio eliminado exitosamente",
+    "deleteError": "Error al eliminar el negocio",
+    "updateSuccess": "Negocio actualizado exitosamente",
+    "updateError": "Error al actualizar el negocio",
+    "createSuccess": "Negocio creado exitosamente",
+    "createError": "Error al crear el negocio",
+    "requiredFields": "Por favor, completa todos los campos requeridos",
+    "invalidEmail": "Por favor, ingresa una dirección de correo válida",
+    "invalidPhone": "Por favor, ingresa un número de teléfono válido",
+    "invalidWebsite": "Por favor, ingresa una URL de sitio web válida",
+    "invalidCoordinates": "Por favor, ingresa coordenadas válidas",
+    "invalidViewCount": "Por favor, ingresa un conteo de vistas válido",
+    "invalidClickCount": "Por favor, ingresa un conteo de clics válido"
+  },
+  "advertise": {
+    "hero": {
+      "title": "Haz Crecer tu Negocio con Bara",
+      "subtitle": "Alcanza a millones de clientes y aumenta tu visibilidad con nuestras poderosas soluciones publicitarias",
+      "getStarted": "Comenzar",
+      "learnMore": "Saber Más"
+    },
+    "stats": {
+      "monthlyVisitors": "Visitantes Mensuales",
+      "businesses": "Negocios Listados",
+      "satisfaction": "Satisfacción del Cliente"
+    },
+    "services": {
+      "title": "Nuestros Servicios Publicitarios",
+      "subtitle": "Elige la solución perfecta para hacer crecer tu negocio y alcanzar más clientes",
+      "premium": {
+        "title": "Listado Premium",
+        "description": "Destácate de la competencia con visibilidad mejorada y ubicación premium",
+        "feature1": "Clasificación de búsqueda mejorada",
+        "feature2": "Ubicación premium en resultados",
+        "feature3": "Presentación detallada del negocio",
+        "cta": "Obtener Listado Premium"
+      },
+      "targeted": {
+        "title": "Publicidad Dirigida",
+        "description": "Alcanza a tus clientes ideales con campañas publicitarias dirigidas con precisión",
+        "feature1": "Segmentación geográfica",
+        "feature2": "Filtrado demográfico",
+        "feature3": "Insights comportamentales",
+        "cta": "Comenzar Publicidad"
+      },
+      "analytics": {
+        "title": "Análisis e Insights",
+        "description": "Rastrea tu rendimiento y optimiza tus campañas con análisis detallados",
+        "feature1": "Datos de rendimiento en tiempo real",
+        "feature2": "Insights sobre comportamiento del cliente",
+        "feature3": "Seguimiento y reportes de ROI",
+        "cta": "Ver Análisis"
+      }
+    },
+    "whyChoose": {
+      "title": "¿Por Qué Elegir Bara para Publicidad?",
+      "subtitle": "Proporcionamos las herramientas y alcance que necesitas para hacer crecer tu negocio efectivamente",
+      "reach": {
+        "title": "Alcance Masivo",
+        "description": "Acceso a millones de clientes potenciales buscando activamente negocios como el tuyo"
+      },
+      "growth": {
+        "title": "Crecimiento Comprobado",
+        "description": "Los negocios ven un aumento promedio del 40% en consultas de clientes en el primer mes"
+      },
+      "local": {
+        "title": "Enfoque Local",
+        "description": "Especializado en conectar negocios locales con clientes locales en tu área"
+      },
+      "visibility": {
+        "title": "Visibilidad Mejorada",
+        "description": "Destácate en los resultados de búsqueda y sé notado por clientes buscando tus servicios"
+      }
+    },
+    "cta": {
+      "title": "¿Listo para Hacer Crecer tu Negocio?",
+      "description": "Únete a miles de negocios que confían en Bara para ayudarlos a alcanzar más clientes y hacer crecer sus ingresos",
+      "primaryButton": "Comenzar Publicidad Hoy",
+      "secondaryButton": "Programar una Consulta"
+    },
+    "contact": {
+      "title": "Ponte en Contacto",
+      "subtitle": "Nuestros expertos publicitarios están aquí para ayudarte a tener éxito",
+      "phone": {
+        "title": "Soporte Telefónico",
+        "hours": "Lun - Domingo 24/7"
+      },
+      "email": {
+        "title": "Soporte por Email",
+        "response": "Respuesta en 24 horas"
+      },
+      "location": {
+        "title": "Visita Nuestra Oficina",
+        "address": "Kigali, Ruanda",
+        "visit": "Programar una reunión"
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contáctanos",
+      "subtitle": "Estamos aquí para ayudar. Ponte en contacto con nuestro equipo para cualquier pregunta o soporte que necesites."
+    },
+    "form": {
+      "title": "Envíanos un Mensaje",
+      "description": "Completa el formulario a continuación y te responderemos lo antes posible.",
+      "firstName": "Nombre",
+      "firstNamePlaceholder": "Ingresa tu nombre",
+      "lastName": "Apellido",
+      "lastNamePlaceholder": "Ingresa tu apellido",
+      "email": "Email",
+      "emailPlaceholder": "Ingresa tu dirección de email",
+      "phone": "Teléfono",
+      "phonePlaceholder": "Ingresa tu número de teléfono",
+      "subject": "Asunto",
+      "subjectPlaceholder": "¿De qué se trata?",
+      "message": "Mensaje",
+      "messagePlaceholder": "Dinos cómo podemos ayudarte...",
+      "sendMessage": "Enviar Mensaje"
+    },
+    "info": {
+      "general": {
+        "title": "Información General",
+        "phone": "Teléfono",
+        "email": "Email",
+        "address": "Dirección",
+        "addressValue": "Kigali, Ruanda",
+        "hours": "Horario de Atención",
+        "hoursValue": "Lun - Domingo 24/7"
+      },
+      "support": {
+        "title": "Soporte al Cliente",
+        "phone": "Teléfono de Soporte",
+        "phoneHours": "Disponible 24/7",
+        "email": "Email de Soporte",
+        "response": "Respuesta en 2 horas"
+      },
+      "business": {
+        "title": "Consultas Comerciales",
+        "email": "Email Comercial",
+        "description": "Para asociaciones, publicidad y oportunidades comerciales",
+        "learnMore": "Saber Más Sobre Servicios Comerciales"
+      }
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "subtitle": "Encuentra respuestas rápidas a preguntas comunes sobre nuestros servicios",
+      "question1": "¿Cómo puedo reclamar mi listado de negocio?",
+      "answer1": "Puedes reclamar tu listado de negocio visitando nuestra página de reclamación y siguiendo el proceso de verificación simple. Te guiaremos a través de cada paso.",
+      "question2": "¿Qué opciones publicitarias ofrecen?",
+      "answer2": "Ofrecemos listados premium, campañas publicitarias dirigidas y herramientas de análisis para ayudarte a alcanzar más clientes y hacer crecer tu negocio.",
+      "question3": "¿Cómo actualizo la información de mi negocio?",
+      "answer3": "Una vez que hayas reclamado tu listado, puedes actualizar fácilmente la información de tu negocio, horarios, fotos y más a través de tu panel de control de negocio.",
+      "question4": "¿Qué soporte proporcionan a los negocios?",
+      "answer4": "Proporcionamos soporte completo incluyendo soporte telefónico, asistencia por email y gerentes de cuenta dedicados para clientes premium."
+    },
+    "cta": {
+      "title": "¿Necesitas Más Ayuda?",
+      "description": "Nuestro equipo está listo para asistirte con cualquier pregunta o preocupación que puedas tener",
+      "primaryButton": "Contactar Soporte",
+      "secondaryButton": "Explorar Centro de Ayuda"
+    }
+  }
+} 

@@ -1,0 +1,896 @@
+{
+  "common": {
+    "search": "Tafuta",
+    "find": "Pata",
+    "view": "Ona",
+    "edit": "Hariri",
+    "delete": "Futa",
+    "save": "Hifadhi",
+    "cancel": "Ghairi",
+    "submit": "Wasilisha",
+    "loading": "Inapakia...",
+    "error": "Hitilafu",
+    "success": "Mafanikio",
+    "close": "Funga",
+    "back": "Rudi",
+    "next": "Ifuatayo",
+    "previous": "Iliyotangulia",
+    "yes": "Ndiyo",
+    "no": "Hapana",
+    "ok": "Sawa"
+  },
+  "navigation": {
+    "home": "Nyumbani",
+    "advertise": "Tangaza",
+    "writeReview": "Andika Tathmini",
+    "searchByCity": "Tafuta kwa Jiji",
+    "searchByCountry": "Tafuta kwa Nchi",
+    "marketplace": "Soko",
+    "events": "Matukio",
+    "about": "Kuhusu",
+    "contact": "Wasiliana",
+    "login": "Ingia",
+    "signup": "Jisajili",
+    "profile": "Wasifu",
+    "logout": "Ondoka"
+  },
+  "languages": {
+    "english": "Kiingereza",
+    "french": "Kifaransa",
+    "spanish": "Kihispania",
+    "swahili": "Kiswahili",
+    "selectLanguage": "Chagua Lugha"
+  },
+  "homepage": {
+    "hero": {
+      "title": "Gundua Mitaani",
+      "subtitle": "Pata biashara bora katika eneo lako",
+      "searchPlaceholder": "Pata biashara",
+      "locationPlaceholder": "Mahali",
+      "searchButton": "TAFUTA"
+    },
+    "categories": {
+      "title": "Tazama Kategoria",
+      "viewMore": "Ona Zaidi",
+      "viewLess": "Ona Chache",
+      "viewAllCategories": "Ona Kategoria Zote"
+    },
+    "businesses": {
+      "title": "Biashara Zilizochaguliwa",
+      "viewAll": "Ona Zote"
+    }
+  },
+  "business": {
+    "owners": "Wamiliki wa Biashara",
+    "manageListing": {
+      "title": "Dhibiti orodha yako ya bure.",
+      "step1": "Sasisha maelezo ya biashara yako kwa hatua chache.",
+      "step2": "Fanya iwe rahisi kwa wateja wako kukupata kwenye programu ya Bara.",
+      "new": "Mpya!",
+      "jobPosting": "Chapisha nafasi ya kazi kwenye orodha yako ya bure."
+    },
+    "claimListing": "Dai Orodha Yako",
+    "orCall": "au piga",
+    "toast": {
+      "title": "Piga simu kwa maelezo zaidi",
+      "description": "Tafadhali piga (+250) 791 568 519 kwa maelezo zaidi kuhusu kudai orodha yako.",
+      "callNow": "Piga Sasa"
+    },
+    "details": {
+      "phone": "Simu",
+      "email": "Barua Pepe",
+      "website": "Tovuti",
+      "address": "Anwani",
+      "hours": "Masaa",
+      "services": "Huduma",
+      "reviews": "Tathmini",
+      "rating": "Ukadiriaji",
+      "orderOnline": "Oda Mtandaoni",
+      "visitWebsite": "Tembelea Tovuti",
+      "getDirections": "Pata Maelekezo",
+      "share": "Shiriki"
+    },
+    "status": {
+      "active": "Inafanya Kazi",
+      "pending": "Inasubiri",
+      "suspended": "Imezuiliwa",
+      "premium": "Premium"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Kuhusu Bara",
+      "subtitle": "Kuunganisha jamii na biashara za kujiamini za mitaani",
+      "learnMore": "Jifunze zaidi",
+      "contactUs": "Wasiliana nasi"
+    },
+    "overview": {
+      "title": "Hadithi yetu",
+      "description": "Bara ni jukwaa kuu la orodha ya biashara nchini Rwanda, lililojitolea kuunganisha jamii za mitaani na biashara za kujiamini. Tunamini nguvu ya biashara ya mitaani na tunajitahidi kufanya iwe rahisi kwa watu kugundua na kuungana na huduma bora zaidi katika eneo lao.",
+      "mission": "Dhamira yetu ni kuwezesha biashara za mitaani kwa kuwapa uwepo wa kidijitali huku tukisaidia watumiaji kufanya maamuzi ya kujua wapi kununua, kula na kupokea huduma.",
+      "established": "Imeanzishwa 2024",
+      "location": "Rwanda"
+    },
+    "stats": {
+      "users": "Watumiaji walio hai",
+      "businesses": "Biashara zilizoorodheshwa",
+      "cities": "Miji iliyofunikwa",
+      "satisfaction": "Kuridhika kwa wateja"
+    },
+    "values": {
+      "title": "Maadili yetu",
+      "subtitle": "Kanuni zinazongoza kila kitu tunachofanya",
+      "trust": {
+        "title": "Uaminifu na kujiamini",
+        "description": "Tunajenga uhusiano wa kudumu unaozingatia uwazi na kujiamini."
+      },
+      "quality": {
+        "title": "Huduma ya ubora",
+        "description": "Tunadumisha viwango vya juu katika kila kitu tunachofanya kwa jamii yetu."
+      },
+      "innovation": {
+        "title": "Ubunifu",
+        "description": "Tunaendelea kuboresha jukwaa letu ili kuhudumia watumiaji wetu vizuri zaidi."
+      },
+      "community": {
+        "title": "Jamii kwanza",
+        "description": "Tunaweka vipaumbele mahitaji na ukuaji wa jamii zetu za mitaani."
+      },
+      "excellence": {
+        "title": "Ubora",
+        "description": "Tunajitahidi kufikia ubora katika kila kipengele cha biashara yetu."
+      },
+      "growth": {
+        "title": "Ukuaji endelevu",
+        "description": "Tunaunga mkono ukuaji endelevu wa biashara za mitaani."
+      }
+    },
+    "team": {
+      "title": "Timu yetu",
+      "subtitle": "Kutana na wataalamu waliojitolea nyuma ya Bara",
+      "leadership": {
+        "title": "Timu ya uongozi",
+        "description": "Viongozi wenye uzoefu wanaongoza mtazamo wetu wa kimkakati na ukuaji."
+      },
+      "development": {
+        "title": "Timu ya maendeleo",
+        "description": "Wasanidi waliohitimu wanaojenga suluhisho za ubunifu kwa jukwaa letu."
+      },
+      "support": {
+        "title": "Msaada kwa wateja",
+        "description": "Wafanyakazi wa msaada wa kirafiki wanaohakikisha uzoefu bora wa mtumiaji."
+      }
+    },
+    "contact": {
+      "title": "Wasiliana nasi",
+      "subtitle": "Tungependa kusikia kutoka kwako. Wasiliana nasi ili kujifunza zaidi kuhusu Bara.",
+      "phone": {
+        "title": "Simu",
+        "hours": "Jumatatu - Jumapili 24/7"
+      },
+      "email": {
+        "title": "Barua pepe",
+        "response": "Jibu ndani ya masaa 24"
+      },
+      "location": {
+        "title": "Ofisi",
+        "address": "Kigali, Rwanda",
+        "visit": "Tembelea kwa mradi"
+      }
+    }
+  },
+  "claimListing": {
+    "page": {
+      "title": "Dai Orodha Yako ya Biashara",
+      "subtitle": "Chukua udhibiti wa orodha yako ya biashara na uungane na wateja zaidi",
+      "hero": {
+        "callUs": "Utupigie:",
+        "hours": "Jumatatu - Jumapili 24/7"
+      },
+      "benefits": {
+        "title": "Kwa Nini Kudai Orodha Yako?",
+        "subtitle": "Unapodai orodha yako ya biashara, unaweza kufungua zana za nguvu za kukuza biashara yako",
+        "fullControl": {
+          "title": "Udhibiti Kamili wa Biashara",
+          "description": "Sasisha maelezo ya biashara yako, masaa na huduma wakati wowote"
+        },
+        "enhancedVisibility": {
+          "title": "Uonekano Ulioimarishwa",
+          "description": "Pata nafasi ya kipaumbele katika matokeo ya utafutaji na orodha zilizotolewa"
+        },
+        "customerReviews": {
+          "title": "Maoni ya Wateja",
+          "description": "Jibu maoni na udhibiti sifa yako mtandaoni"
+        },
+        "verifiedBadge": {
+          "title": "Badge Iliyothibitishwa",
+          "description": "Pata badge iliyothibitishwa ili kujenga uaminifu na wateja wa uwezo"
+        }
+      },
+      "form": {
+        "title": "Dai Biashara Yako",
+        "subtitle": "Jaza fomu hapa chini kuanza mchakato wa kudai",
+        "formTitle": "Fomu ya Kudai Biashara",
+        "requiredFields": "Sehemu zote zilizowekwa alama * ni muhimu",
+        "businessName": "Jina la Biashara *",
+        "businessAddress": "Anwani ya Biashara *",
+        "contactName": "Jina Lako *",
+        "description": "Weka jina lako kamili",
+        "contactEmail": "Barua Pepe *",
+        "contactPhone": "Nambari ya Simu",
+        "website": "Tovuti",
+        "reasonForClaim": "Sababu ya Kudai *",
+        "additionalInfo": "Maelezo Zaidi",
+        "placeholders": {
+          "businessName": "Weka jina la biashara yako",
+          "businessAddress": "Weka anwani ya biashara yako",
+          "contactName": "Weka jina lako kamili",
+          "contactEmail": "Weka barua pepe yako",
+          "contactPhone": "Weka nambari yako ya simu",
+          "website": "https://tovuti-yako.com",
+          "reasonForClaim": "Tafadhali eleza kwa nini unadai orodha hii ya biashara...",
+          "additionalInfo": "Maelezo yoyote ya ziada ambayo yanaweza kutusaidia kuthibitisha madai yako..."
+        },
+        "submit": "Wasilisha Ombi la Kudai",
+        "submitting": "Inawasilisha..."
+      },
+      "contact": {
+        "title": "Unahitaji Msaada?",
+        "subtitle": "Timu yetu iko hapa kukusaidia kudai orodha yako ya biashara na kujibu maswali yoyote unaweza kuwa nayo.",
+        "callUs": {
+          "title": "Utupigie",
+          "phone": "(+250) 791 568 519",
+          "hours": "Jumatatu - Jumapili 24/7"
+        },
+        "emailUs": {
+          "title": "Tutume barua pepe",
+          "email": "advertise@bara.com",
+          "response": "Tutajibu kwa masaa 24"
+        },
+        "processingTime": {
+          "title": "Muda wa Usindikaji",
+          "time": "Siku 2-3 za Kazi",
+          "description": "Kwa uthibitisho wa madai"
+        }
+      },
+      "faq": {
+        "title": "Maswali Yanayoulizwa Sana",
+        "processingTime": {
+          "question": "Inachukua muda gani kusindika madai?",
+          "answer": "Kwa kawaida tunasindika madai kwa siku 2-3 za kazi. Utapokea arifa ya barua pepe mara tu madai yako yatakaporeviewwa."
+        },
+        "requiredInfo": {
+          "question": "Je, maelezo gani ninahitaji kutoa?",
+          "answer": "Unahitaji kutoa jina la biashara yako, anwani, maelezo ya mawasiliano na kueleza kwa nini unadai orodha hii. Maelezo ya ziada yanaweza kuombwa kwa uthibitisho."
+        },
+        "cost": {
+          "question": "Je, kuna gharama ya kudai orodha yangu?",
+          "answer": "Kudai orodha yako ya msingi ni bure. Hata hivyo, vipengele vya premium na chaguzi za uonekano ulioimarishwa zinapatikana kwa ada."
+        },
+        "notListed": {
+          "question": "Je, ikiwa biashara yangu haijatolewa bado?",
+          "answer": "Ikiwa biashara yako haijatolewa kwa sasa, bado unaweza kuwasilisha ombi la kudai na tutakusaidia kuiongeza kwenye orodha yetu."
+        }
+      },
+      "validation": {
+        "title": "Hitilafu ya Uthibitisho",
+        "requiredFields": "Tafadhali jaza sehemu zote muhimu."
+      },
+      "success": {
+        "title": "Ombi la Kudai Limewasilishwa",
+        "description": "Ombi lako la kudai limewasilishwa kwa mafanikio. Tutakupigia simu kwa siku 2-3 za kazi."
+      },
+      "error": {
+        "title": "Hitilafu",
+        "description": "Kushindwa kuwasilisha ombi la kudai. Tafadhali jaribu tena."
+      }
+    }
+  },
+  "qa": {
+    "askQuestions": "Uliza maswali kwa jumuiya ya Bara",
+    "shareKnowledge": "Shiriki maarifa yako kusaidia wengine",
+    "findAnswers": "Pata majibu au toa suluhisho",
+    "askQuestion": "Uliza Swali",
+    "browsePopular": "Tazama Maswali na Majibu Maarufu"
+  },
+  "questions": {
+    "page": {
+      "title": "Uliza Swali",
+      "subtitle": "Pata Msaada kutoka Jumuiya",
+      "description": "Uliza swali lako na upate majibu kutoka jumuiya yetu ya wataalamu na watumiaji.",
+      "infoTitle": "Jinsi inavyofanya kazi:",
+      "info1": "Wasilisha swali lako na kichwa cha habari cha wazi na maelezo ya kina",
+      "info2": "Wanachama wa jumuiya yetu watatoa majibu muhimu",
+      "info3": "Utapokea arifa za barua pepe wakati mtu anapojibu",
+      "footer": "© 2024 Jumuiya ya Bara. Haki zote zimehifadhiwa."
+    },
+    "form": {
+      "titleLabel": "Kichwa cha Swali",
+      "titlePlaceholder": "Ingiza kichwa cha habari cha wazi na cha kuelezea kwa swali lako",
+      "contentLabel": "Maelezo ya Swali",
+      "contentPlaceholder": "Toa maelezo ya kina kuhusu swali lako. Kuwa mahususi kupata majibu bora.",
+      "categoryLabel": "Jamii",
+      "selectCategory": "Chagua jamii",
+      "nameLabel": "Jina Lako",
+      "namePlaceholder": "Ingiza jina lako kamili",
+      "emailLabel": "Anwani ya Barua Pepe",
+      "emailPlaceholder": "Ingiza anwani yako ya barua pepe",
+      "submit": "Wasilisha Swali",
+      "submitting": "Inawasilisha...",
+      "submitted": "Swali limewasilishwa kwa mafanikio!",
+      "titleRequired": "Tafadhali ingiza kichwa cha swali",
+      "contentRequired": "Tafadhali ingiza maelezo ya swali",
+      "nameRequired": "Tafadhali ingiza jina lako",
+      "emailRequired": "Tafadhali ingiza anwani yako ya barua pepe",
+      "categoryRequired": "Tafadhali chagua jamii",
+      "submissionError": "Imeshindwa kwasilisha swali. Tafadhali jaribu tena.",
+      "characters": "herufi"
+    }
+  },
+  "reviews": {
+    "title": "Tathmini",
+    "writeReview": "Andika Tathmini",
+    "rating": "Ukadiriaji",
+    "helpful": "Msaada",
+    "notHelpful": "Si Msaada",
+    "report": "Ripoti",
+    "sortBy": "Panga kwa",
+    "filterBy": "Chuja kwa",
+    "allReviews": "Tathmini Zote",
+    "positiveReviews": "Tathmini Chanya",
+    "negativeReviews": "Tathmini Hasi",
+    "searchBusiness": "Tafuta Biashara",
+    "selectBusiness": "Chagua Biashara ya Kutathmini",
+    "businessName": "Jina la Biashara",
+    "location": "Mahali",
+    "searchResults": "Matokeo ya Utafutaji",
+    "noResults": "Hakuna biashara zilizopatikana",
+    "reviewTitle": "Kichwa cha Tathmini",
+    "reviewContent": "Maelezo ya Tathmini",
+    "submitReview": "Wasilisha Tathmini",
+    "reviewSubmitted": "Tathmini Imewasilishwa!",
+    "reviewPending": "Tathmini yako itachapishwa baada ya ukaguzi",
+    "ratingRequired": "Tafadhali toa ukadiriaji",
+    "titleRequired": "Tafadhali toa kichwa cha tathmini",
+    "contentRequired": "Tafadhali toa maudhui ya tathmini",
+    "loginRequired": "Tafadhali ingia ili kuwasilisha tathmini",
+    "searchError": "Hitilafu ya Utafutaji",
+    "searchFailed": "Utafutaji wa biashara ulishindwa",
+    "submissionError": "Hitilafu ya Kuwasilisha",
+    "submissionFailed": "Kuwasilisha tathmini kulishindwa",
+    "backToSearch": "Rudi kwenye Utafutaji",
+    "reviewingBusiness": "PLACEHOLDER_TRANSLATION",
+    "addPhotos": "PLACEHOLDER_TRANSLATION",
+    "cancel": "Ghairi",
+    "submitting": "Inawasilisha...",
+    "characterCount": "herufi",
+    "outOf5": "kati ya 5",
+    "helpFinding": "Msaada wa kupata",
+    "writeShare": "Andika na ushiriki",
+    "ReviewingBusiness": "Kupitia Biashara",
+    "AddPhotos": "Ongeza picha",
+    "findBusiness": "Tafuta Biashara",
+    "feedbackImprove": "Maoni ya Kuboresha",
+    "feedbackMessage": "Biashara zinahitaji maoni yako, mazuri na mabaya, ili ziweze kuboresha au kupata sifa kwa kazi iliyofanyika vizuri",
+    "shareMessage": "Shiriki uzoefu wako na ujisikie vizuri ukijua kuwa unaleta mabadiliko katika jamii yako!",
+    "postReview": "Chapisha Tathmini",
+    "shareExperience": "Shiriki Uzoefu Wako"
+  },
+  "auth": {
+    "login": {
+      "title": "Ingia",
+      "email": "Barua Pepe",
+      "password": "Nywila",
+      "forgotPassword": "Umesahau Nywila?",
+      "noAccount": "Huna akaunti?",
+      "signup": "Jisajili"
+    },
+    "signup": {
+      "title": "Jisajili",
+      "fullName": "Jina Kamili",
+      "email": "Barua Pepe",
+      "password": "Nywila",
+      "confirmPassword": "Thibitisha Nywila",
+      "agreeTerms": "Nakubaliana na masharti na hali",
+      "alreadyAccount": "Una akaunti tayari?",
+      "login": "Ingia"
+    }
+  },
+  "footer": {
+    "localCommunities": "Jumuiya za Kikazi",
+    "cities": "Miji",
+    "kigaliRwanda": "Kigali, Rwanda",
+    "nairobiKenya": "Nairobi, Kenya",
+    "kampalaUganda": "Kampala, Uganda",
+    "darEsSalaamTanzania": "Dar es Salaam, Tanzania",
+    "addisAbabaEthiopia": "Addis Ababa, Ethiopia",
+    "accraGhana": "Accra, Ghana",
+    "lagosNigeria": "Lagos, Nigeria",
+    "capeTownSouthAfrica": "Cape Town, Afrika Kusini",
+    "rwandafulRwanda": "Rwanda Nzuri",
+    "beautifulBotswana": "Botswana Nzuri",
+    "kenyafulKenya": "Kenya Nzuri",
+    "ugandafulUganda": "Uganda Nzuri",
+    "tanzaniafulTanzania": "Tanzania Nzuri",
+    "ethiopiafulEthiopia": "Ethiopia Nzuri",
+    "ghanafulGhana": "Ghana Nzuri",
+    "nigeriafulNigeria": "Nigeria Nzuri",
+    "about": "Kuhusu",
+    "aboutUs": "Kuhusu Sisi",
+    "contactUs": "Wasiliana Nasi",
+    "advertiseWithUs": "Tangaza Nasi",
+    "corporateBlog": "Blog ya Kampuni",
+    "advertisingChoices": "Chaguo za Utangazaji",
+    "AskUsAnyQuestion": "Uliza Swali",
+    "ClaimYourListing": "Reklai Biashara Yako",
+    "siteDirectory": "Orodha ya Tovuti",
+    "articles": "Makala",
+    "findBusiness": "Pata Biashara",
+    "ypMobileApp": "Programu ya Simu ya Bara",
+    "gasGuruMobileApp": "Programu ya Simu ya Gas Guru",
+    "siteMap": "Ramani ya Tovuti",
+    "categories": "Kategoria",
+    "browseRestaurants": "Tazama Mikahawa",
+    "contact": "Wasiliana",
+    "privacy": "Faragha",
+    "terms": "Masharti ya Matumizi",
+    "legal": "Kisheria",
+    "copyright": "© 2025 Bara, Inc. Haki zote zimehifadhiwa.",
+    "trademark": "Bara, alama ya Bara, The Real Bara Listings, na alama zingine zote za Bara ni alama zilizosajiliwa za Bara, Inc.",
+    "otherMarks": "Alama zote zingine zilizomo hapa ni mali ya wamiliki wao."
+  },
+  "categories": {
+    "title": "Kategoria Zote",
+    "searchPlaceholder": "Tafuta kategoria...",
+    "noResults": {
+      "title": "Hakuna kategoria zilizopatikana",
+      "description": "Jaribu kubadilisha maneno ya utafutaji au tazama kategoria zote"
+    },
+    "airports": "Viwanja vya Ndege",
+    "banks": "Mabenki",
+    "bars": "Mabaa",
+    "barbers": "Wakinyozi",
+    "bookstores": "Maduka ya Vitabu",
+    "cafes": "Mikahawa",
+    "cinemas-theatres": "Sinema na Ukumbi wa Tamasha",
+    "clinics": "Kliniki",
+    "clubs-professional": "Vikundi (Kazi / Binafsi)",
+    "clubs-leisure": "Vikundi (Burudani / Ngoma)",
+    "dentists": "Madaktari wa Meno",
+    "doctors": "Madaktari",
+    "faith": "Imani",
+    "farms": "Mashamba",
+    "galleries-art": "Jumba la Sanaa",
+    "government": "Serikali",
+    "hospitals": "Hospitali",
+    "hotels": "Hoteli",
+    "lawyers": "Mawakili",
+    "libraries": "Maktaba",
+    "markets": "Masoko",
+    "museums": "Makumbusho",
+    "parks": "Mbuga",
+    "pharmacies": "Maduka ya Dawa",
+    "post-offices": "Ofisi za Posta",
+    "recreation": "Burudani",
+    "real-estate": "Mali ya Ishi",
+    "restaurants": "Mikahawa",
+    "salons": "Saluni",
+    "schools": "Shule",
+    "services": "Huduma",
+    "shopping": "Kununua",
+    "tours": "Safari",
+    "transportation": "Usafiri",
+    "universities": "Vyuo Vikuu",
+    "utilities": "Huduma za Umma",
+    "auto-repair": "Kurekebisha Magari",
+    "coffee-shops": "Mikahawa ya Kahawa",
+    "gyms-fitness": "Vituo vya Mazoezi",
+    "beauty-salons": "Saluni za Urembo",
+    "pet-services": "Huduma za Wanyama"
+  },
+  "admin": {
+    "dashboard": "Dashibodi",
+    "cities": "Miji",
+    "countries": "Nchi",
+    "businesses": "Biashara",
+    "reviews": "Tathmini",
+    "users": "Watumiaji",
+    "settings": "Mipangilio",
+    "statistics": "Takwimu",
+    "recentActivity": "Shughuli za Hivi Karibuni",
+    "quickActions": "Vitendo vya Haraka",
+    "systemStatus": "Hali ya Mfumo",
+    "addNew": "Ongeza Mpya",
+    "edit": "Hariri",
+    "delete": "Futa",
+    "search": "Tafuta",
+    "filter": "Chuja",
+    "status": "Hali",
+    "actions": "Vitendo",
+    "name": "Jina",
+    "code": "Msimbo",
+    "population": "Idadi ya Watu",
+    "capital": "Mji Mkuu",
+    "currency": "Sarafu",
+    "language": "Lugha",
+    "latitude": "Latitudo",
+    "longitude": "Longitudo",
+    "category": "Kategoria",
+    "address": "Anwani",
+    "phone": "Simu",
+    "website": "Tovuti",
+    "rating": "Ukadiriaji",
+    "title": "Kichwa",
+    "content": "Maudhui",
+    "user": "Mtumiaji",
+    "business": "Biashara",
+    "date": "Tarehe",
+    "approved": "Imekubaliwa",
+    "pending": "Inasubiri",
+    "rejected": "Imekataliwa",
+    "flagged": "Imeonyeshwa",
+    "total": "Jumla",
+    "active": "Inafanya Kazi",
+    "inactive": "Haifanyi Kazi"
+  },
+  "lookForBusinesses": "Tafuta Biashara kwa Jina na Mahali.",
+  "findBusiness": "Pata Biashara",
+  "sentenceOne": "Kadiria na Hakiki",
+  "sentenceTwo": "Chapisha",
+  "ReviewMessageOne": "Hakiki",
+  "reviewMessage": " Biashara na Wasaidie Wengine!",
+  "listings": {
+    "searchResults": "Matokeo ya Utafutaji",
+    "mapView": "Muonekano wa Ramani",
+    "listView": "Muonekano wa Orodha",
+    "all": "Zote",
+    "orderOnline": "Oda Mtandaoni",
+    "kidFriendly": "Inafaa Watoto",
+    "coupons": "Kuponi",
+    "premium": "Premium",
+    "verified": "Imethibitishwa",
+    "sort": "Panga:",
+    "default": "Chaguo-msingi",
+    "distance": "Umbali",
+    "rating": "Ukadiriaji",
+    "nameAZ": "Jina (A - Z)",
+    "businessesFound": "biashara zilizopatikana",
+    "noBusinessesFound": "Hakuna biashara zilizopatikana",
+    "noBusinessesMatching": "Hakuna biashara zilizopatikana zinazofanana na",
+    "noBusinessesInCategory": "Hakuna biashara zilizopatikana katika",
+    "clearFilters": "Futa Vichujio",
+    "moreInfo": "Maelezo Zaidi",
+    "writeReview": "Andika Tathmini",
+    "inCity": "katika",
+    "showingBusinesses": "Inaonyesha",
+    "businessesInCity": "biashara katika",
+    "businessesFoundCount": "Biashara zilizopatikana",
+    "selectCity": "Chagua Jiji",
+    "citiesWithBusinesses": "Miji yenye",
+    "businessesInCategory": "biashara",
+    "showAllCities": "Onyesha miji yote",
+    "allCities": "Miji yote",
+    "business": "biashara",
+    "businesses": "biashara",
+    "errorLoadingBusinesses": "Hitilafu ya Kupakia Biashara",
+    "errorMessage": "Hitilafu ilitokea wakati wa kupakia biashara. Tafadhali jaribu tena.",
+    "tryAgain": "Jaribu Tena",
+    "loadingCities": "Inapakia miji...",
+    "searchPlaceholder": "Tafuta",
+    "findButton": "PATA"
+  },
+  "cityDetail": {
+    "cityMapLocation": "Ramani ya Jiji na Mahali",
+    "businessListings": "Orodha ya Biashara",
+    "searchBusinessesCity": "Tafuta biashara katika jiji hili...",
+    "allCategories": "Kategoria Zote",
+    "gridView": "Muonekano wa Gridi",
+    "listView": "Muonekano wa Orodha",
+    "businesses": "Biashara",
+    "noBusinessesFound": "Hakuna biashara zilizopatikana",
+    "tryAdjustingSearch": "Jaribu kubadilisha maneno ya utafutaji au vichujio.",
+    "backToCity": "Rudi kwenye Jiji",
+    "cityDescription": "Maelezo ya Jiji",
+    "businessCount": "Biashara",
+    "viewAllBusinesses": "Tazama Biashara Zote",
+    "filterByCategory": "Chuja kwa Kategoria",
+    "searchBusinesses": "Tafuta Biashara",
+    "errorLoadingBusinesses": "Hitilafu ya Kupakia Biashara",
+    "errorMessage": "Hitilafu ilitokea wakati wa kupakia biashara. Tafadhali jaribu tena.",
+    "tryAgain": "Jaribu Tena",
+    "clearFilters": "Futa Vichujio",
+    "moreInfo": "Maelezo Zaidi",
+    "writeReview": "Andika Tathmini",
+    "business": "biashara",
+    "reviews": "tathmini",
+    "cities": {
+      "kigali": "Kigali, mji mkuu na mji mkubwa zaidi wa Rwanda, ni mfano mzuri wa mabadiliko ya mijini katika Afrika ya Mashariki. Inayojulikana kwa barabara zake safi sana, Kigali imepata sifa ya kuwa moja ya miji mkuu iliyo na mpangilio mzuri zaidi katika bara. Mji ni kituo cha biashara, teknolojia na utalii, na miundombinu ya kisasa ikiwa na majengo marefu, barabara zilizotengenezwa vizuri na mfumo wa teknolojia unaokua, mara nyingi huitwa \"Silicon Valley ya Afrika ya Mashariki\". Utamaduni wake wa kusisimua unaonekana katika masoko ya kusisimua, ngoma na muziki wa jadi wa Rwanda, na sherehe za kila mwaka kama KigaliUp. Ukuaji wa haraka wa Kigali, pamoja na ahadi yake ya uendelevu na nafasi za kijani, kama bustani za Kumbukumbu ya Mauaji ya Kigali, hufanya kuwa mfano wa maendeleo ya mijini katika mkoa.",
+      "nairobi": "Nairobi, mji mkuu na mji mkubwa zaidi wa Kenya, inayojulikana kwa upendo kama \"Mji wa Kijani chini ya Jua\" kwa sababu ya uoto wake wa kijani na hali ya hewa nzuri. Kama nguvu muhimu ya kiuchumi katika Afrika ya Mashariki, Nairobi ina makao makuu ya makampuni mengi ya kimataifa na Soko la Hisa la Nairobi. Wakazi wake wa aina mbalimbali, wakitoka katika makundi mengi ya kikabila ya Kenya, wanachangia kwa utamaduni mzuri unaoonekana katika chakula chake, muziki na sherehe kama Sherehe ya Kimataifa ya Filamu ya Nairobi. Nairobi inatumika kama mlango wa kuingia kwenye bustani za wanyama wa Kenya zilizojulikana duniani, kama Maasai Mara na Bustani ya Taifa ya Nairobi, ambapo wageni wanaweza kuona simba na twiga na mstari wa mji wa mji kama mandharinyuma.",
+      "kampala": "Kampala, mji mkuu na mji mkubwa zaidi wa Uganda, inayojulikana kwa kuwa imejengwa juu ya vilima saba, ikitoa topografia ya kipekee na uzuri. Mji ni kituo cha biashara na utamaduni cha kusisimua, nyumbani kwa masoko ya kusisimua kama Owino na Nakasero, ambapo wauzaji wanauza kila kitu, kutoka bidhaa mbichi hadi ufundi wa jadi. Historia ya Kampala inaonyeshwa katika maeneo kama Jumba la Makumbusho la Uganda na Makaburi ya Kasubi, Sehemu ya Urithi wa Ulimwengu wa UNESCO. Kama kituo cha elimu, ina Chuo Kikuu cha Makerere, moja ya taasisi za kale na za heshima zaidi za Afrika. Na uchumi unaokua unaoendeshwa na biashara, uzalishaji na huduma, wakazi wa Kampala wa aina mbalimbali na maisha ya usiku ya kusisimua hufanya kuwa kituo cha mijini cha kusisimua katika Afrika ya Mashariki.",
+      "dar-es-salaam": "Dar es Salaam, mji mkubwa zaidi na kituo cha kiuchumi cha Tanzania, unakua kando ya pwani ya Bahari ya Hindi, ukichanganya uzuri wa pwani na nguvu ya mijini. Inayojulikana kwa pwani zake safi kama Coco Beach na bandari yake ya kusisimua, mji unatumika kama bandari kuu ya Tanzania, kuwezesha biashara katika Afrika ya Mashariki na zaidi. Utamaduni wake wa aina mbalimbali, unaoathiriwa na jamii za Kiafrika, Kiarabu na Kiindia, unaonekana katika chakula chake, muziki na sherehe kama Wiki ya Mitindo ya Kiswahili. Mstari wa Dar es Salaam, uliojaa majengo marefu ya kisasa, unaonyesha sekta yake ya biashara inayokua, hasa katika fedha na teknolojia, wakati maeneo ya kihistoria kama Mnara wa Askari na Jumba la Makumbusho la Taifa yanaonyesha urithi wake mzuri wa kikoloni na kabla ya kikoloni.",
+      "addis-ababa": "Addis Ababa, mji mkuu na mji mkubwa zaidi wa Ethiopia, ni moyo wa kisiasa wa Afrika, ukihifadhi makao makuu ya Umoja wa Afrika na misheni nyingi za kidiplomasia. Ikiwa katika milima ya juu, mji umejaa historia, na maeneo ya kihistoria kama Kanisa Kuu la Utatu Mtakatifu na Jumba la Makumbusho la Taifa, nyumbani kwa mifupa maarufu ya Lucy. Utamaduni wa Addis Ababa wa aina mbalimbali unaonekana katika masoko yake ya kusisimua, sherehe za jadi za kahawa na sherehe za kila mwaka kama Meskel. Uchumi wa mji unaokua, na sekta kama uzalishaji, teknolojia na ukarimu zinazoendesha ukuaji. Mchanganyiko wake wa mila za zamani na maendeleo ya kisasa hufanya Addis Ababa kuwa kituo cha mijini cha kipekee na cha kusisimua katika Afrika ya Mashariki.",
+      "accra": "Accra, mji mkuu na mji mkubwa zaidi wa Ghana, ni mji wa pwani wa kusisimua unaojulikana kwa pwani zake za dhahabu, kama Labadi Beach, na tamasha la utamaduni la kusisimua. Kama kituo muhimu cha fedha katika Afrika ya Magharibi, Accra ni nyumbani kwa Soko la Hisa la Ghana na makao makuu mengi ya makampuni. Utamaduni wake mzuri unaangaza kupitia muziki wake, na aina kama highlife na hiplife, na sherehe kama Sherehe ya Sanaa ya Mitaani ya Chale Wote. Miundombinu ya kisasa ya Accra, ikiwa na maduka ya ununuzi na majengo marefu, inalinganisha na maeneo ya kihistoria kama Kaburi la Kwame Nkrumah, ikitoa mji ambao unachanganya jadi na ukuaji wa haraka wa mijini na jamii ya sanaa inayokua.",
+      "lagos": "Lagos, mji mkubwa zaidi na nguvu ya kiuchumi ya Nigeria, ni mji mkubwa wa kusisimua unaojulikana kwa nguvu yake ya kusisimua na utofauti wa utamaduni. Kama kituo cha fedha cha kuongoza cha Afrika ya Magharibi, ina Soko la Hisa la Nigeria na makampuni mengi ya kimataifa. Lagos inajulikana kwa tamasha lake la muziki la kusisimua, kuzalisha aina kama Afrobeats, na sekta yake ya filamu ya Nollywood inayokua. Masoko ya mji, kama Balogun na Computer Village, ni nyuki wa shughuli, wakitoa kila kitu, kutoka nguo hadi vifaa vya elektroniki. Licha ya maisha yake ya mijini ya haraka, Lagos ina pwani nzuri kama Tarkwa Bay na maeneo ya utamaduni kama Ukumbi wa Taifa, ikifanya kuwa msingi wa biashara na utamaduni wa Afrika ya Magharibi.",
+      "cape-town": "Cape Town, mji mkuu wa kisheria wa Afrika Kusini, inajulikana kwa uzuri wake wa asili wa kusisimua, unaoendeshwa na Mlima wa Jedwali wa kihistoria na kuzungukwa na Bahari ya Atlantiki. Sehemu muhimu ya utalii, mji unatoa vivutio kama V&A Waterfront, Kisiwa cha Robben na Bustani za Mvinyo za Cape. Utamaduni wake wa aina mbalimbali, uliofanywa na athari za Kiafrika, Kizungu na Kiasia, unaonekana katika chakula chake, sherehe na tamasha la sanaa la kusisimua. Cape Town pia ni kituo muhimu cha biashara, na sekta ya teknolojia inayokua na viungo vya biashara ya kimataifa. Pwani yake ya kusisimua, mijiji ya kusisimua na historia yake mzuri hufanya kuwa moja ya miji mizuri zaidi na yenye utamaduni mzuri zaidi ya Afrika.",
+      "johannesburg": "Johannesburg, mji mkubwa zaidi na kituo cha kiuchumi cha Afrika Kusini, mara nyingi huitwa \"Mji wa Dhahabu\" kwa sababu ya asili yake kama mji wa madini ya dhahabu mwishoni mwa karne ya 19. Leo, ni mji mkuu wa fedha wa Afrika, nyumbani kwa Soko la Hisa la Johannesburg na makao makuu mengi ya makampuni. Historia mzuri ya mji inachunguzwa katika maeneo kama Jumba la Makumbusho la Apartheid na Constitution Hill. Mstari wa kisasa wa Johannesburg, na majengo marefu ya kusisimua, unalinganisha na mijiji yake ya kusisimua kama Soweto, ambapo urithi wa utamaduni unakua kupitia muziki, ngoma na sanaa ya mitaani. Uchumi wake wa kusisimua na wakazi wake wa kimataifa hufanya kuwa mchezaji muhimu katika masoko ya Kiafrika na ya kimataifa.",
+      "cairo": "Cairo, mji mkuu na mji mkubwa zaidi wa Misri, ni mji wa kihistoria unaochanganya maajabu ya zamani na kusisimua cha kisasa. Inayojulikana kama \"Mji wa Minareti Elfu\", Cairo ina Piramidi za Giza, Sphinx na Jumba la Makumbusho la Misri, likihifadhi hazina za ustaarabu wa Misri ya zamani. Utamaduni wake wa kusisimua unaonekana katika masoko yake ya kusisimua kama Khan el-Khalili, usanifu wa Kiislamu na maeneo ya urithi wa Kikopti. Kama kituo cha kiuchumi na utamaduni cha Afrika ya Kaskazini, Cairo inakua na mchanganyiko wa nyumba za kahawa za jadi, maduka ya kisasa na tamasha la teknolojia la kukua, ikifanya kuwa mji ambapo historia na kisasa zinakaa pamoja kwa amani.",
+      "alexandria": "Alexandria, mji wa pili kwa ukubwa wa Misri, ni gemu ya Mediterania inayojulikana kwa historia yake mzuri na pwani yake ya kusisimua. Mara moja nyumbani kwa Mnara wa Kale wa Alexandria na Maktaba Kuu, mji unahifadhi umuhimu wake wa kiutamaduni na maeneo ya kihistoria kama Bibliotheca Alexandrina, heshima ya kisasa kwa mtangulizi wake wa zamani. Uchumi wa Alexandria unakua kwenye bandari yake ya kimkakati, kituo muhimu cha biashara ya Mediterania, na sekta yake ya utalii, ambayo huvutia wageni kwenye corniche yake, ngome za kihistoria na magofu ya Kigiriki na Kirumi. Mchanganyiko wa athari za Kiafrika, Kiarabu na Kizungu wa mji unaunda picha ya utamaduni ya kipekee, inayoonekana katika chakula chake na tamasha la sanaa la kusisimua.",
+      "casablanca": "Casablanca, mji mkubwa zaidi na kituo cha kiuchumi cha Morocco, ni mji wa kisasa kwenye pwani ya Atlantiki, unaojulikana kwa usanifu wake wa kusisimua, ikiwa na Msikiti Mkuu wa Hassan II na minaret yake ya kusisimua. Kama bandari kuu ya nchi, inaendeshwa uchumi wa Morocco kupitia biashara, fedha na sekta. Hali ya mji ya kimataifa inaonekana katika mchanganyiko wake wa majengo ya Art Deco, masoko ya kusisimua na maisha ya usiku ya kusisimua. Tamasha la teknolojia na startups la Casablanca la kukua, pamoja na medina yake ya kihistoria na promenade ya pwani, hufanya kuwa kituo cha kusisimua cha biashara na utamaduni katika Afrika ya Kaskazini.",
+      "marrakech": "Marrakech, mji muhimu katika Morocco, ni hazina ya utamaduni inayojulikana kwa medina yake ya kihistoria, Sehemu ya Urithi wa Ulimwengu wa UNESCO, na masoko ya kusisimua yaliyojazwa na viungo, nguo na ufundi mgumu. Uwanja wa kihistoria wa Jemaa el-Fnaa wa mji unaona na wanasimulia hadithi, wanamuziki na maduka ya chakula, ikionyesha urithi mzuri wa Morocco. Marrakech ni sehemu muhimu ya utalii, na majumba mazuri kama Bahia na bustani kama Jardin Majorelle. Mchanganyiko wake wa athari za Berber, Kiarabu na Kifaransa, pamoja na sekta ya ukarimu na sanaa inayokua, hufanya kuwa kituo cha utamaduni na kiuchumi cha kuvutia katika Morocco.",
+      "butare": "Butare, sasa inayojulikana kama Huye, ni mji katika kusini mwa Rwanda unaosherehekea umuhimu wake wa kielimu na kiutamaduni. Nyumbani kwa chuo kikuu cha Rwanda, ni kituo cha elimu na utafiti, kuvutia wanafunzi kutoka mkoa mzima. Taasisi za kiutamaduni za Butare, kama Jumba la Makumbusho la Ethnographic, zinaonyesha historia na mila za Rwanda kupitia vifaa na maonyesho. Uzuri wa mji wa utulivu, barabara zilizopandwa miti na maeneo ya kihistoria, ikiwa na majengo ya enzi ya kikoloni, hufanya kuwa kituo cha uchunguzi wa kiakili na kiutamaduni, na mwelekeo unaokua wa maendeleo yanayoendeshwa na jamii na utalii.",
+      "mombasa": "Mombasa, gemu ya pwani ya Kenya, ni mji wa bandari wa kihistoria unaojulikana kwa pwani zake safi, kama Diani na Nyali, na bandari yake ya kimkakati, mlango muhimu wa biashara wa Afrika ya Mashariki. Historia mzuri ya mji, iliyofanywa na athari za Kiafrika, Kiarabu na Kizungu, inaonekana katika maeneo ya kihistoria kama Fort Jesus, Sehemu ya Urithi wa Ulimwengu wa UNESCO, na usanifu wa Swahili wa Mji wa Kale. Utamaduni wa kusisimua wa Mombasa unaangaza kupitia chakula chake cha samaki, muziki wa taarab na sherehe. Kama kituo muhimu cha utalii na kiuchumi, inachanganya burudani ya pwani na sekta ya biashara na ukarimu inayokua.",
+      "jinja": "Jinja, mji katika mashariki mwa Uganda, inayojulikana kwa kuwa iko kwenye chanzo cha Mto Nile, ikifanya kuwa sumaku ya utalii wa mavazi. Inayojulikana kwa rafting ya maji ya haraka, bungee jumping na kayak, Jinja huvutia watafuta mavazi kutoka ulimwengu mzima. Uchumi wa mji unaokua, unaoendeshwa na utalii, kilimo na sekta ndogo za viwanda. Maeneo ya kihistoria kama mnara wa Chanzo cha Nile na majengo ya enzi ya kikoloni yanaongeza uzuri wake. Uzuri wa mji wa Jinja, na uoto wa kijani na maoni ya mto, pamoja na masoko yake ya kusisimua, hufanya kuwa sehemu ya kipekee katika Afrika ya Mashariki.",
+      "arusha": "Arusha, mji katika kaskazini mwa Tanzania, ni mlango wa kuingia kwenye baadhi ya maajabu ya asili ya kihistoria zaidi ya Afrika, ikiwa na Mlima Kilimanjaro, Bustani ya Taifa ya Serengeti na Kreta ya Ngorongoro. Inayojulikana kama \"Mji Mkuu wa Safari\", Arusha inakua kwenye sekta yake ya utalii, ikitoa ufikiaji wa uzoefu wa wanyama wa daraja la dunia. Masoko ya kusisimua ya mji, kama Soko la Maasai, yanaonyesha ufundi na utamaduni wa kienyeji. Arusha pia inatumika kama kituo cha kidiplomasia, ikihifadhi makao makuu ya Jumuiya ya Afrika ya Mashariki. Sekta yake ya biashara inayokua na mandharinyuma mzuri wa Mlima Meru hufanya kuwa kituo muhimu cha kiuchumi na kiutamaduni.",
+      "dire-dawa": "Dire Dawa, mji katika mashariki mwa Ethiopia, ni kituo muhimu cha usafiri na biashara, ikiwa kimkakati kando ya reli ya Addis Ababa-Djibouti. Inayojulikana kwa wakazi wake wa aina mbalimbali, ikiwa na jamii za Ethiopia, Somalia na Oromo, mji una mchanganyiko mzuri wa utamaduni unaoonekana katika masoko yake, chakula na sherehe. Uchumi wa Dire Dawa unaendeshwa na biashara, uzalishaji na kilimo, na kituo chake cha reli cha kihistoria na usanifu wa kikoloni kikiongeza kina cha kihistoria. Maisha ya mitaani ya kusisimua ya mji, pamoja na jukumu lake kama kituo cha vifaa, hufanya kuwa sehemu muhimu ya mandhari ya kiuchumi ya Ethiopia.",
+      "kumasi": "Kumasi, mji wa pili kwa ukubwa wa Ghana, ni moyo wa kiutamaduni wa Ufalme wa Ashanti, unaojulikana kwa mila yake mzuri na historia. Mji una Jumba la Manhyia, kiti cha Asantehene, na masoko ya kusisimua kama Kejetia, moja ya masoko makubwa zaidi ya nje ya Afrika ya Magharibi. Urithi wa kiutamaduni wa Kumasi unasherehekea kupitia sherehe kama Akwasidae na ufundi wake mgumu wa nguo ya kente. Kama kituo cha kiuchumi cha kukua, inasaidia sekta kama mbao, kilimo na biashara ya reja reja. Mchanganyiko wa Kumasi wa urithi wa kifalme, biashara ya kusisimua na tamasha la sanaa la kusisimua hufanya kuwa msingi wa utambulisho wa Ghana."
+    }
+  },
+  "businessFeatures": {
+    "hasCoupons": "Ina Kuponi",
+    "acceptsOrdersOnline": "Inakubali Oda Mtandaoni",
+    "isKidFriendly": "Inafaa Watoto",
+    "isPremium": "Biashara ya Premium",
+    "isVerified": "Biashara Imethibitishwa"
+  },
+  "admin": {
+    "businessFeatures": "Vipengele vya Biashara",
+    "hasCoupons": "Ina Kuponi",
+    "acceptsOrdersOnline": "Inakubali Oda Mtandaoni",
+    "isKidFriendly": "Inafaa Watoto",
+    "isPremium": "Biashara ya Premium",
+    "isVerified": "Biashara Imethibitishwa",
+    "addBusiness": "Ongeza Biashara",
+    "editBusiness": "Hariri Biashara",
+    "createBusiness": "Unda Biashara",
+    "updateBusiness": "Sasisha Biashara",
+    "businessName": "Jina la Biashara",
+    "businessDescription": "Maelezo ya Biashara",
+    "businessCategory": "Kategoria ya Biashara",
+    "businessCity": "Jiji la Biashara",
+    "businessCountry": "Nchi ya Biashara",
+    "businessPhone": "Simu ya Biashara",
+    "businessEmail": "Barua Pepe ya Biashara",
+    "businessWebsite": "Tovuti ya Biashara",
+    "businessAddress": "Anwani ya Biashara",
+    "businessStatus": "Hali ya Biashara",
+    "businessFeatures": "Vipengele vya Biashara",
+    "contactInformation": "Maelezo ya Mawasiliano",
+    "loadingBusinesses": "Inapakia biashara...",
+    "businessManagement": "Usimamizi wa Biashara",
+    "manageAllBusinesses": "Simamia biashara zote katika mfumo",
+    "addNewBusiness": "Ongeza Biashara Mpya",
+    "updateBusinessInfo": "Sasisha maelezo ya biashara",
+    "createNewBusinessListing": "Unda orodha mpya ya biashara",
+    "description": "Maelezo",
+    "selectCategory": "Chagua kategoria",
+    "selectCity": "Chagua jiji",
+    "premiumBusiness": "Biashara ya Premium",
+    "verifiedBusiness": "Biashara Imethibitishwa",
+    "cancel": "Ghairi",
+    "update": "Sasisha",
+    "create": "Unda",
+    "error": "Hitilafu",
+    "success": "Mafanikio",
+    "validationError": "Hitilafu ya Uthibitishaji",
+    "pleaseFillRequiredFields": "Tafadhali jaza sehemu zote zinazohitajika",
+    "businessUpdatedSuccessfully": "Biashara imesasishwa kwa mafanikio",
+    "businessCreatedSuccessfully": "Biashara imeundwa kwa mafanikio",
+    "failedToSaveBusiness": "Imeshindwa kuhifadhi biashara",
+    "confirmDeleteBusiness": "Una uhakika unataka kufuta biashara hii?",
+    "businessDeletedSuccessfully": "Biashara imefutwa kwa mafanikio",
+    "failedToDeleteBusiness": "Imeshindwa kufuta biashara",
+    "failedToFetchBusinesses": "Imeshindwa kupakia biashara",
+    "tryAdjustingSearchTerms": "Jaribu kubadilisha maneno ya utafutaji au vichujio.",
+    "reviews": "tathmini",
+    "searchBusinesses": "Tafuta biashara...",
+    "filterByStatus": "Chuja kwa hali",
+    "filterByCategory": "Chuja kwa kategoria",
+    "allStatuses": "Hali Zote",
+    "allCategories": "Kategoria Zote",
+    "noBusinessesFound": "Hakuna biashara zilizopatikana",
+    "businesses": "biashara",
+    "city": "Jiji",
+    "status": "Hali",
+    "pending": "Inasubiri",
+    "suspended": "Imezuiliwa",
+    "email": "Barua Pepe",
+    "locationInformation": "Maelezo ya Mahali",
+    "businessDetails": "Maelezo ya Biashara",
+    "statusAndFeatures": "Hali na Vipengele",
+    "seoAndAnalytics": "SEO na Uchambuzi",
+    "metaTitle": "Kichwa cha Meta",
+    "metaDescription": "Maelezo ya Meta",
+    "viewCount": "Idadi ya Matazamo",
+    "clickCount": "Idadi ya Kubofya",
+    "owner": "Mmiliki",
+    "createdAt": "Iliundwa",
+    "updatedAt": "Iliyosasishwa",
+    "saveChanges": "Hifadhi Mabadiliko",
+    "cancel": "Ghairi",
+    "deleteBusiness": "Futa Biashara",
+    "confirmDelete": "Una uhakika unataka kufuta biashara hii?",
+    "deleteSuccess": "Biashara imefutwa kwa mafanikio",
+    "deleteError": "Imeshindwa kufuta biashara",
+    "updateSuccess": "Biashara imesasishwa kwa mafanikio",
+    "updateError": "Imeshindwa kusasisha biashara",
+    "createSuccess": "Biashara imeundwa kwa mafanikio",
+    "createError": "Imeshindwa kuunda biashara",
+    "requiredFields": "Tafadhali jaza sehemu zote zinazohitajika",
+    "invalidEmail": "Tafadhali weka barua pepe halali",
+    "invalidPhone": "Tafadhali weka nambari ya simu halali",
+    "invalidWebsite": "Tafadhali weka URL ya tovuti halali",
+    "invalidCoordinates": "Tafadhali weka kuratibu halali",
+    "invalidViewCount": "Tafadhali weka idadi halali ya matazamo",
+    "invalidClickCount": "Tafadhali weka idadi halali ya kubofya"
+  },
+  "advertise": {
+    "hero": {
+      "title": "Kua Biashara Yako na Bara",
+      "subtitle": "Fikia mamilioni ya wateja na kuongeza mwonekano wako na suluhisho zetu za utangazaji zenye nguvu",
+      "getStarted": "Anza",
+      "learnMore": "Jifunze Zaidi"
+    },
+    "stats": {
+      "monthlyVisitors": "Wageni wa Mwezi",
+      "businesses": "Biashara Zilizoorodheshwa",
+      "satisfaction": "Uridhishaji wa Mteja"
+    },
+    "services": {
+      "title": "Huduma Zetu za Utangazaji",
+      "subtitle": "Chagua suluhisho kamili la kukuza biashara yako na kufikia wateja zaidi",
+      "premium": {
+        "title": "Orodha ya Premium",
+        "description": "Jitokeze kutoka kwa ushindani na mwonekano ulioimarishwa na nafasi ya premium",
+        "feature1": "Uratibu wa utafutaji ulioimarishwa",
+        "feature2": "Nafasi ya premium katika matokeo",
+        "feature3": "Onyesho la kina la biashara",
+        "cta": "Pata Orodha ya Premium"
+      },
+      "targeted": {
+        "title": "Utangazaji Unaolengwa",
+        "description": "Fikia wateja wako bora na kampeni za utangazaji zilizolengwa kwa usahihi",
+        "feature1": "Kulenga kwa kijiografia",
+        "feature2": "Kuchuja kwa demografia",
+        "feature3": "Ufahamu wa tabia",
+        "cta": "Anza Utangazaji"
+      },
+      "analytics": {
+        "title": "Uchambuzi na Ufahamu",
+        "description": "Fuatilia utendaji wako na bora kampeni zako na uchambuzi wa kina",
+        "feature1": "Data ya utendaji ya wakati halisi",
+        "feature2": "Ufahamu wa tabia ya mteja",
+        "feature3": "Ufuatiliaji na ripoti za ROI",
+        "cta": "Ona Uchambuzi"
+      }
+    },
+    "whyChoose": {
+      "title": "Kwa Nini Kuchagua Bara kwa Utangazaji?",
+      "subtitle": "Tunatoa zana na ufikiaji ambao unahitaji kukuza biashara yako kwa ufanisi",
+      "reach": {
+        "title": "Ufikiaji wa Wingi",
+        "description": "Ufikiaji wa mamilioni ya wateja wa uwezo wanaotafuta biashara kama yako kwa bidii"
+      },
+      "growth": {
+        "title": "Ukuaji Uliothibitishwa",
+        "description": "Biashara zinaona ongezeko la wastani wa 40% katika maswali ya wateja katika mwezi wa kwanza"
+      },
+      "local": {
+        "title": "Mwelekeo wa Kienyeji",
+        "description": "Maalum katika kuunganisha biashara za kienyeji na wateja wa kienyeji katika eneo lako"
+      },
+      "visibility": {
+        "title": "Mwonekano Uliomarishwa",
+        "description": "Jitokeze katika matokeo ya utafutaji na uonekane na wateja wanaotafuta huduma zako"
+      }
+    },
+    "cta": {
+      "title": "Tayari Kukuza Biashara Yako?",
+      "description": "Jiunge na maelfu ya biashara zinazomtumaini Bara kuwasaidia kufikia wateja zaidi na kukuza mapato yao",
+      "primaryButton": "Anza Utangazaji Leo",
+      "secondaryButton": "Panga Mashauriano"
+    },
+    "contact": {
+      "title": "Wasiliana Nasi",
+      "subtitle": "Wataalam wetu wa utangazaji wako hapa kukusaidia kufanikiwa",
+      "phone": {
+        "title": "Msaada wa Simu",
+        "hours": "Jumatatu - Jumapili 24/7"
+      },
+      "email": {
+        "title": "Msaada wa Barua Pepe",
+        "response": "Jibu ndani ya masaa 24"
+      },
+      "location": {
+        "title": "Tembelea Ofisi Yetu",
+        "address": "Kigali, Rwanda",
+        "visit": "Panga mkutano"
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Wasiliana Nasi",
+      "subtitle": "Tuko hapa kusaidia. Wasiliana na timu yetu kwa maswali yoyote au msaada ambao unahitaji."
+    },
+    "form": {
+      "title": "Tutume Ujumbe",
+      "description": "Jaza fomu hapa chini na tutakujibu haraka iwezekanavyo.",
+      "firstName": "Jina la Kwanza",
+      "firstNamePlaceholder": "Weka jina lako la kwanza",
+      "lastName": "Jina la Mwisho",
+      "lastNamePlaceholder": "Weka jina lako la mwisho",
+      "email": "Barua Pepe",
+      "emailPlaceholder": "Weka anwani yako ya barua pepe",
+      "phone": "Simu",
+      "phonePlaceholder": "Weka nambari yako ya simu",
+      "subject": "Mada",
+      "subjectPlaceholder": "Inahusu nini?",
+      "message": "Ujumbe",
+      "messagePlaceholder": "Tuambie jinsi tunavyoweza kukusaidia...",
+      "sendMessage": "Tuma Ujumbe"
+    },
+    "info": {
+      "general": {
+        "title": "Maelezo ya Jumla",
+        "phone": "Simu",
+        "email": "Barua Pepe",
+        "address": "Anwani",
+        "addressValue": "Kigali, Rwanda",
+        "hours": "Masaa ya Kazi",
+        "hoursValue": "Jumatatu - Jumapili 24/7"
+      },
+      "support": {
+        "title": "Msaada wa Mteja",
+        "phone": "Simu ya Msaada",
+        "phoneHours": "Inapatikana 24/7",
+        "email": "Barua Pepe ya Msaada",
+        "response": "Jibu ndani ya masaa 2"
+      },
+      "business": {
+        "title": "Maswali ya Biashara",
+        "email": "Barua Pepe ya Biashara",
+        "description": "Kwa ushirikiano, utangazaji na fursa za biashara",
+        "learnMore": "Jifunze Zaidi Kuhusu Huduma za Biashara"
+      }
+    },
+    "faq": {
+      "title": "Maswali Yanayoulizwa Sana",
+      "subtitle": "Pata majibu ya haraka kwa maswali ya kawaida kuhusu huduma zetu",
+      "question1": "Ninawezaje kudai orodha yangu ya biashara?",
+      "answer1": "Unaweza kudai orodha yako ya biashara kwa kutembelea ukurasa wetu wa kudai na kufuata mchakato rahisi wa uthibitishaji. Tutakuelekeza kupitia kila hatua.",
+      "question2": "Chaguzi gani za utangazaji mnazotoa?",
+      "answer2": "Tunatoa orodha za premium, kampeni za utangazaji zilizolengwa na zana za uchambuzi kukusaidia kufikia wateja zaidi na kukuza biashara yako.",
+      "question3": "Ninawezaje kusasisha maelezo ya biashara yangu?",
+      "answer3": "Mara tu umepodai orodha yako, unaweza kusasisha kwa urahisi maelezo ya biashara yako, masaa, picha na zaidi kupitia dashibodi yako ya biashara.",
+      "question4": "Msaada gani mnatoa kwa biashara?",
+      "answer4": "Tunatoa msaada kamili ikiwa na msaada wa simu, usaidizi wa barua pepe na wasimamizi wa akaunti waliojitolea kwa wateja wa premium."
+    },
+    "cta": {
+      "title": "Unahitaji Msaada Zaidi?",
+      "description": "Timu yetu iko tayari kukusaidia na maswali yoyote au wasiwasi ambao unaweza kuwa nao",
+      "primaryButton": "Wasiliana na Msaada",
+      "secondaryButton": "Tembelea Kituo cha Msaada"
+    }
+  },
+  "cities": {
+    "kigali": "Kigali, mji mkuu na mji mkubwa zaidi wa Rwanda, ni mfano mzuri wa mabadiliko ya mijini katika Afrika ya Mashariki. Inayojulikana kwa barabara zake safi sana, Kigali imepata sifa ya kuwa moja ya miji mkuu iliyo na mpangilio mzuri zaidi katika bara. Mji ni kituo cha biashara, teknolojia na utalii, na miundombinu ya kisasa ikiwa na majengo marefu, barabara zilizotengenezwa vizuri na mfumo wa teknolojia unaokua, mara nyingi huitwa \"Silicon Valley ya Afrika ya Mashariki\". Utamaduni wake wa kusisimua unaonekana katika masoko ya kusisimua, ngoma na muziki wa jadi wa Rwanda, na sherehe za kila mwaka kama KigaliUp. Ukuaji wa haraka wa Kigali, pamoja na ahadi yake ya uendelevu na nafasi za kijani, kama bustani za Kumbukumbu ya Mauaji ya Kigali, hufanya kuwa mfano wa maendeleo ya mijini katika mkoa.",
+    "nairobi": "Nairobi, mji mkuu na mji mkubwa zaidi wa Kenya, inayojulikana kwa upendo kama \"Mji wa Kijani chini ya Jua\" kwa sababu ya uoto wake wa kijani na hali ya hewa nzuri. Kama nguvu muhimu ya kiuchumi katika Afrika ya Mashariki, Nairobi ina makao makuu ya makampuni mengi ya kimataifa na Soko la Hisa la Nairobi. Wakazi wake wa aina mbalimbali, wakitoka katika makundi mengi ya kikabila ya Kenya, wanachangia kwa utamaduni mzuri unaoonekana katika chakula chake, muziki na sherehe kama Sherehe ya Kimataifa ya Filamu ya Nairobi. Nairobi inatumika kama mlango wa kuingia kwenye bustani za wanyama wa Kenya zilizojulikana duniani, kama Maasai Mara na Bustani ya Taifa ya Nairobi, ambapo wageni wanaweza kuona simba na twiga na mstari wa mji wa mji kama mandharinyuma.",
+    "kampala": "Kampala, mji mkuu na mji mkubwa zaidi wa Uganda, inayojulikana kwa kuwa imejengwa juu ya vilima saba, ikitoa topografia ya kipekee na uzuri. Mji ni kituo cha biashara na utamaduni cha kusisimua, nyumbani kwa masoko ya kusisimua kama Owino na Nakasero, ambapo wauzaji wanauza kila kitu, kutoka bidhaa mbichi hadi ufundi wa jadi. Historia ya Kampala inaonyeshwa katika maeneo kama Jumba la Makumbusho la Uganda na Makaburi ya Kasubi, Sehemu ya Urithi wa Ulimwengu wa UNESCO. Kama kituo cha elimu, ina Chuo Kikuu cha Makerere, moja ya taasisi za kale na za heshima zaidi za Afrika. Na uchumi unaokua unaoendeshwa na biashara, uzalishaji na huduma, wakazi wa Kampala wa aina mbalimbali na maisha ya usiku ya kusisimua hufanya kuwa kituo cha mijini cha kusisimua katika Afrika ya Mashariki.",
+    "dar-es-salaam": "Dar es Salaam, mji mkubwa zaidi na kituo cha kiuchumi cha Tanzania, unakua kando ya pwani ya Bahari ya Hindi, ukichanganya uzuri wa pwani na nguvu ya mijini. Inayojulikana kwa pwani zake safi kama Coco Beach na bandari yake ya kusisimua, mji unatumika kama bandari kuu ya Tanzania, kuwezesha biashara katika Afrika ya Mashariki na zaidi. Utamaduni wake wa aina mbalimbali, unaoathiriwa na jamii za Kiafrika, Kiarabu na Kiindia, unaonekana katika chakula chake, muziki na sherehe kama Wiki ya Mitindo ya Kiswahili. Mstari wa Dar es Salaam, uliojaa majengo marefu ya kisasa, unaonyesha sekta yake ya biashara inayokua, hasa katika fedha na teknolojia, wakati maeneo ya kihistoria kama Mnara wa Askari na Jumba la Makumbusho la Taifa yanaonyesha urithi wake mzuri wa kikoloni na kabla ya kikoloni.",
+    "addis-ababa": "Addis Ababa, mji mkuu na mji mkubwa zaidi wa Ethiopia, ni moyo wa kisiasa wa Afrika, ukihifadhi makao makuu ya Umoja wa Afrika na misheni nyingi za kidiplomasia. Ikiwa katika milima ya juu, mji umejaa historia, na maeneo ya kihistoria kama Kanisa Kuu la Utatu Mtakatifu na Jumba la Makumbusho la Taifa, nyumbani kwa mifupa maarufu ya Lucy. Utamaduni wa Addis Ababa wa aina mbalimbali unaonekana katika masoko yake ya kusisimua, sherehe za jadi za kahawa na sherehe za kila mwaka kama Meskel. Uchumi wa mji unaokua, na sekta kama uzalishaji, teknolojia na ukarimu zinazoendesha ukuaji. Mchanganyiko wake wa mila za zamani na maendeleo ya kisasa hufanya Addis Ababa kuwa kituo cha mijini cha kipekee na cha kusisimua katika Afrika ya Mashariki.",
+    "accra": "Accra, mji mkuu na mji mkubwa zaidi wa Ghana, ni mji wa pwani wa kusisimua unaojulikana kwa pwani zake za dhahabu, kama Labadi Beach, na tamasha la utamaduni la kusisimua. Kama kituo muhimu cha fedha katika Afrika ya Magharibi, Accra ni nyumbani kwa Soko la Hisa la Ghana na makao makuu mengi ya makampuni. Utamaduni wake mzuri unaangaza kupitia muziki wake, na aina kama highlife na hiplife, na sherehe kama Sherehe ya Sanaa ya Mitaani ya Chale Wote. Miundombinu ya kisasa ya Accra, ikiwa na maduka ya ununuzi na majengo marefu, inalinganisha na maeneo ya kihistoria kama Kaburi la Kwame Nkrumah, ikitoa mji ambao unachanganya jadi na ukuaji wa haraka wa mijini na jamii ya sanaa inayokua.",
+    "lagos": "Lagos, mji mkubwa zaidi na nguvu ya kiuchumi ya Nigeria, ni mji mkubwa wa kusisimua unaojulikana kwa nguvu yake ya kusisimua na utofauti wa utamaduni. Kama kituo cha fedha cha kuongoza cha Afrika ya Magharibi, ina Soko la Hisa la Nigeria na makampuni mengi ya kimataifa. Lagos inajulikana kwa tamasha lake la muziki la kusisimua, kuzalisha aina kama Afrobeats, na sekta yake ya filamu ya Nollywood inayokua. Masoko ya mji, kama Balogun na Computer Village, ni nyuki wa shughuli, wakitoa kila kitu, kutoka nguo hadi vifaa vya elektroniki. Licha ya maisha yake ya mijini ya haraka, Lagos ina pwani nzuri kama Tarkwa Bay na maeneo ya utamaduni kama Ukumbi wa Taifa, ikifanya kuwa msingi wa biashara na utamaduni wa Afrika ya Magharibi.",
+    "cape-town": "Cape Town, mji mkuu wa kisheria wa Afrika Kusini, inajulikana kwa uzuri wake wa asili wa kusisimua, unaoendeshwa na Mlima wa Jedwali wa kihistoria na kuzungukwa na Bahari ya Atlantiki. Sehemu muhimu ya utalii, mji unatoa vivutio kama V&A Waterfront, Kisiwa cha Robben na Bustani za Mvinyo za Cape. Utamaduni wake wa aina mbalimbali, uliofanywa na athari za Kiafrika, Kizungu na Kiasia, unaonekana katika chakula chake, sherehe na tamasha la sanaa la kusisimua. Cape Town pia ni kituo muhimu cha biashara, na sekta ya teknolojia inayokua na viungo vya biashara ya kimataifa. Pwani yake ya kusisimua, mijiji ya kusisimua na historia yake mzuri hufanya kuwa moja ya miji mizuri zaidi na yenye utamaduni mzuri zaidi ya Afrika.",
+    "johannesburg": "Johannesburg, mji mkubwa zaidi na kituo cha kiuchumi cha Afrika Kusini, mara nyingi huitwa \"Mji wa Dhahabu\" kwa sababu ya asili yake kama mji wa madini ya dhahabu mwishoni mwa karne ya 19. Leo, ni mji mkuu wa fedha wa Afrika, nyumbani kwa Soko la Hisa la Johannesburg na makao makuu mengi ya makampuni. Historia mzuri ya mji inachunguzwa katika maeneo kama Jumba la Makumbusho la Apartheid na Constitution Hill. Mstari wa kisasa wa Johannesburg, na majengo marefu ya kusisimua, unalinganisha na mijiji yake ya kusisimua kama Soweto, ambapo urithi wa utamaduni unakua kupitia muziki, ngoma na sanaa ya mitaani. Uchumi wake wa kusisimua na wakazi wake wa kimataifa hufanya kuwa mchezaji muhimu katika masoko ya Kiafrika na ya kimataifa.",
+    "cairo": "Cairo, mji mkuu na mji mkubwa zaidi wa Misri, ni mji wa kihistoria unaochanganya maajabu ya zamani na kusisimua cha kisasa. Inayojulikana kama \"Mji wa Minareti Elfu\", Cairo ina Piramidi za Giza, Sphinx na Jumba la Makumbusho la Misri, likihifadhi hazina za ustaarabu wa Misri ya zamani. Utamaduni wake wa kusisimua unaonekana katika masoko yake ya kusisimua kama Khan el-Khalili, usanifu wa Kiislamu na maeneo ya urithi wa Kikopti. Kama kituo cha kiuchumi na utamaduni cha Afrika ya Kaskazini, Cairo inakua na mchanganyiko wa nyumba za kahawa za jadi, maduka ya kisasa na tamasha la teknolojia la kukua, ikifanya kuwa mji ambapo historia na kisasa zinakaa pamoja kwa amani.",
+    "alexandria": "Alexandria, mji wa pili kwa ukubwa wa Misri, ni gemu ya Mediterania inayojulikana kwa historia yake mzuri na pwani yake ya kusisimua. Mara moja nyumbani kwa Mnara wa Kale wa Alexandria na Maktaba Kuu, mji unahifadhi umuhimu wake wa kiutamaduni na maeneo ya kihistoria kama Bibliotheca Alexandrina, heshima ya kisasa kwa mtangulizi wake wa zamani. Uchumi wa Alexandria unakua kwenye bandari yake ya kimkakati, kituo muhimu cha biashara ya Mediterania, na sekta yake ya utalii, ambayo huvutia wageni kwenye corniche yake, ngome za kihistoria na magofu ya Kigiriki na Kirumi. Mchanganyiko wa athari za Kiafrika, Kiarabu na Kizungu wa mji unaunda picha ya utamaduni ya kipekee, inayoonekana katika chakula chake na tamasha la sanaa la kusisimua.",
+    "casablanca": "Casablanca, mji mkubwa zaidi na kituo cha kiuchumi cha Morocco, ni mji wa kisasa kwenye pwani ya Atlantiki, unaojulikana kwa usanifu wake wa kusisimua, ikiwa na Msikiti Mkuu wa Hassan II na minaret yake ya kusisimua. Kama bandari kuu ya nchi, inaendeshwa uchumi wa Morocco kupitia biashara, fedha na sekta. Hali ya mji ya kimataifa inaonekana katika mchanganyiko wake wa majengo ya Art Deco, masoko ya kusisimua na maisha ya usiku ya kusisimua. Tamasha la teknolojia na startups la Casablanca la kukua, pamoja na medina yake ya kihistoria na promenade ya pwani, hufanya kuwa kituo cha kusisimua cha biashara na utamaduni katika Afrika ya Kaskazini.",
+    "marrakech": "Marrakech, mji muhimu katika Morocco, ni hazina ya utamaduni inayojulikana kwa medina yake ya kihistoria, Sehemu ya Urithi wa Ulimwengu wa UNESCO, na masoko ya kusisimua yaliyojazwa na viungo, nguo na ufundi mgumu. Uwanja wa kihistoria wa Jemaa el-Fnaa wa mji unaona na wanasimulia hadithi, wanamuziki na maduka ya chakula, ikionyesha urithi mzuri wa Morocco. Marrakech ni sehemu muhimu ya utalii, na majumba mazuri kama Bahia na bustani kama Jardin Majorelle. Mchanganyiko wake wa athari za Berber, Kiarabu na Kifaransa, pamoja na sekta ya ukarimu na sanaa inayokua, hufanya kuwa kituo cha utamaduni na kiuchumi cha kuvutia katika Morocco.",
+    "butare": "Butare, sasa inayojulikana kama Huye, ni mji katika kusini mwa Rwanda unaosherehekea umuhimu wake wa kielimu na kiutamaduni. Nyumbani kwa chuo kikuu cha Rwanda, ni kituo cha elimu na utafiti, kuvutia wanafunzi kutoka mkoa mzima. Taasisi za kiutamaduni za Butare, kama Jumba la Makumbusho la Ethnographic, zinaonyesha historia na mila za Rwanda kupitia vifaa na maonyesho. Uzuri wa mji wa utulivu, barabara zilizopandwa miti na maeneo ya kihistoria, ikiwa na majengo ya enzi ya kikoloni, hufanya kuwa kituo cha uchunguzi wa kiakili na kiutamaduni, na mwelekeo unaokua wa maendeleo yanayoendeshwa na jamii na utalii.",
+    "mombasa": "Mombasa, gemu ya pwani ya Kenya, ni mji wa bandari wa kihistoria unaojulikana kwa pwani zake safi, kama Diani na Nyali, na bandari yake ya kimkakati, mlango muhimu wa biashara wa Afrika ya Mashariki. Historia mzuri ya mji, iliyofanywa na athari za Kiafrika, Kiarabu na Kizungu, inaonekana katika maeneo ya kihistoria kama Fort Jesus, Sehemu ya Urithi wa Ulimwengu wa UNESCO, na usanifu wa Swahili wa Mji wa Kale. Utamaduni wa kusisimua wa Mombasa unaangaza kupitia chakula chake cha samaki, muziki wa taarab na sherehe. Kama kituo muhimu cha utalii na kiuchumi, inachanganya burudani ya pwani na sekta ya biashara na ukarimu inayokua.",
+    "jinja": "Jinja, mji katika mashariki mwa Uganda, inayojulikana kwa kuwa iko kwenye chanzo cha Mto Nile, ikifanya kuwa sumaku ya utalii wa mavazi. Inayojulikana kwa rafting ya maji ya haraka, bungee jumping na kayak, Jinja huvutia watafuta mavazi kutoka ulimwengu mzima. Uchumi wa mji unaokua, unaoendeshwa na utalii, kilimo na sekta ndogo za viwanda. Maeneo ya kihistoria kama mnara wa Chanzo cha Nile na majengo ya enzi ya kikoloni yanaongeza uzuri wake. Uzuri wa mji wa Jinja, na uoto wa kijani na maoni ya mto, pamoja na masoko yake ya kusisimua, hufanya kuwa sehemu ya kipekee katika Afrika ya Mashariki.",
+    "arusha": "Arusha, mji katika kaskazini mwa Tanzania, ni mlango wa kuingia kwenye baadhi ya maajabu ya asili ya kihistoria zaidi ya Afrika, ikiwa na Mlima Kilimanjaro, Bustani ya Taifa ya Serengeti na Kreta ya Ngorongoro. Inayojulikana kama \"Mji Mkuu wa Safari\", Arusha inakua kwenye sekta yake ya utalii, ikitoa ufikiaji wa uzoefu wa wanyama wa daraja la dunia. Masoko ya kusisimua ya mji, kama Soko la Maasai, yanaonyesha ufundi na utamaduni wa kienyeji. Arusha pia inatumika kama kituo cha kidiplomasia, ikihifadhi makao makuu ya Jumuiya ya Afrika ya Mashariki. Sekta yake ya biashara inayokua na mandharinyuma mzuri wa Mlima Meru hufanya kuwa kituo muhimu cha kiuchumi na kiutamaduni.",
+    "dire-dawa": "Dire Dawa, mji katika mashariki mwa Ethiopia, ni kituo muhimu cha usafiri na biashara, ikiwa kimkakati kando ya reli ya Addis Ababa-Djibouti. Inayojulikana kwa wakazi wake wa aina mbalimbali, ikiwa na jamii za Ethiopia, Somalia na Oromo, mji una mchanganyiko mzuri wa utamaduni unaoonekana katika masoko yake, chakula na sherehe. Uchumi wa Dire Dawa unaendeshwa na biashara, uzalishaji na kilimo, na kituo chake cha reli cha kihistoria na usanifu wa kikoloni kikiongeza kina cha kihistoria. Maisha ya mitaani ya kusisimua ya mji, pamoja na jukumu lake kama kituo cha vifaa, hufanya kuwa sehemu muhimu ya mandhari ya kiuchumi ya Ethiopia.",
+    "kumasi": "Kumasi, mji wa pili kwa ukubwa wa Ghana, ni moyo wa kiutamaduni wa Ufalme wa Ashanti, unaojulikana kwa mila yake mzuri na historia. Mji una Jumba la Manhyia, kiti cha Asantehene, na masoko ya kusisimua kama Kejetia, moja ya masoko makubwa zaidi ya nje ya Afrika ya Magharibi. Urithi wa kiutamaduni wa Kumasi unasherehekea kupitia sherehe kama Akwasidae na ufundi wake mgumu wa nguo ya kente. Kama kituo cha kiuchumi cha kukua, inasaidia sekta kama mbao, kilimo na biashara ya reja reja. Mchanganyiko wa Kumasi wa urithi wa kifalme, biashara ya kusisimua na tamasha la sanaa la kusisimua hufanya kuwa msingi wa utambulisho wa Ghana."
+  }
+}

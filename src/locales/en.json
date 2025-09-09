@@ -1,0 +1,903 @@
+{
+  "common": {
+    "search": "Search",
+    "find": "Find",
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK"
+  },
+  "navigation": {
+    "home": "Home",
+    "advertise": "Advertise",
+    "writeReview": "Write a Review",
+    "searchByCity": "Search by City",
+    "searchByCountry": "Search by Country",
+    "marketplace": "Marketplace",
+    "events": "Events",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "languages": {
+    "english": "English",
+    "french": "French",
+    "spanish": "Spanish",
+    "swahili": "Swahili",
+    "selectLanguage": "Select Language"
+  },
+  "homepage": {
+    "hero": {
+      "title": "Discover Local",
+      "subtitle": "Find the best businesses in your area",
+      "searchPlaceholder": "Find a business",
+      "locationPlaceholder": "Location",
+      "searchButton": "FIND"
+    },
+    "categories": {
+      "title": "Browse Categories",
+      "viewMore": "View More",
+      "viewLess": "View Less",
+      "viewAllCategories": "View All Categories"
+    },
+    "businesses": {
+      "title": "Featured Businesses",
+      "viewAll": "View All"
+    }
+  },
+  "business": {
+    "owners": "Business Owners",
+    "manageListing": {
+      "title": "Manage your free listing.",
+      "step1": "Update your business information in a few steps.",
+      "step2": "Make it easy for your customers to find you on Bara app.",
+      "new": "New!",
+      "jobPosting": "Post a job opening on your free listing."
+    },
+    "claimListing": "Claim Your Listing",
+    "orCall": "or call",
+    "toast": {
+      "title": "Call for more details",
+      "description": "Please call (+250) 791 568 519 for more information about claiming your listing.",
+      "callNow": "Call Now"
+    },
+    "details": {
+      "phone": "Phone",
+      "email": "Email",
+      "website": "Website",
+      "address": "Address",
+      "hours": "Hours",
+      "services": "Services",
+      "reviews": "Reviews",
+      "rating": "Rating",
+      "orderOnline": "Order Online",
+      "visitWebsite": "Visit Website",
+      "getDirections": "Get Directions",
+      "share": "Share"
+    },
+    "status": {
+      "active": "Active",
+      "pending": "Pending",
+      "suspended": "Suspended",
+      "premium": "Premium"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Bara",
+      "subtitle": "Connecting communities with trusted local businesses",
+      "learnMore": "Learn More",
+      "contactUs": "Contact Us"
+    },
+    "overview": {
+      "title": "Our Story",
+      "description": "Bara is Rwanda's premier business directory platform, dedicated to connecting local communities with trusted businesses. We believe in the power of local commerce and strive to make it easier for people to discover and connect with the best services in their area.",
+      "mission": "Our mission is to empower local businesses by providing them with a digital presence while helping consumers make informed decisions about where to shop, dine, and receive services.",
+      "established": "Est. 2024",
+      "location": "Rwanda"
+    },
+    "stats": {
+      "users": "Active Users",
+      "businesses": "Businesses Listed",
+      "cities": "Cities Covered",
+      "satisfaction": "Customer Satisfaction"
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "The principles that guide everything we do",
+      "trust": {
+        "title": "Trust & Reliability",
+        "description": "We build lasting relationships based on transparency and dependability."
+      },
+      "quality": {
+        "title": "Quality Service",
+        "description": "We maintain high standards in everything we do for our community."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We continuously improve our platform to better serve our users."
+      },
+      "community": {
+        "title": "Community First",
+        "description": "We prioritize the needs and growth of our local communities."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "We strive for excellence in every aspect of our business."
+      },
+      "growth": {
+        "title": "Sustainable Growth",
+        "description": "We support the sustainable development of local businesses."
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "Meet the dedicated professionals behind Bara",
+      "leadership": {
+        "title": "Leadership Team",
+        "description": "Experienced executives guiding our strategic vision and growth."
+      },
+      "development": {
+        "title": "Development Team",
+        "description": "Skilled developers building innovative solutions for our platform."
+      },
+      "support": {
+        "title": "Customer Support",
+        "description": "Friendly support staff ensuring excellent user experience."
+      }
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "subtitle": "We'd love to hear from you. Reach out to learn more about Bara.",
+      "phone": {
+        "title": "Phone",
+        "hours": "Mon - Sunday 24/7"
+      },
+      "email": {
+        "title": "Email",
+        "response": "Response within 24 hours"
+      },
+      "location": {
+        "title": "Office",
+        "address": "Kigali, Rwanda",
+        "visit": "Visit by appointment"
+      }
+    }
+  },
+  "claimListing": {
+    "page": {
+      "title": "Claim Your Business Listing",
+      "subtitle": "Take control of your business listing and connect with more customers",
+      "hero": {
+        "callUs": "Call us:",
+        "hours": "Mon - Sunday 24/7"
+      },
+      "benefits": {
+        "title": "Why Claim Your Listing?",
+        "subtitle": "When you claim your business listing, you unlock powerful tools to grow your business",
+        "fullControl": {
+          "title": "Full Business Control",
+          "description": "Update your business information, hours, and services anytime"
+        },
+        "enhancedVisibility": {
+          "title": "Enhanced Visibility",
+          "description": "Get priority placement in search results and featured listings"
+        },
+        "customerReviews": {
+          "title": "Customer Reviews",
+          "description": "Respond to reviews and manage your online reputation"
+        },
+        "verifiedBadge": {
+          "title": "Verified Badge",
+          "description": "Get a verified badge to build trust with potential customers"
+        }
+      },
+      "form": {
+        "title": "Claim Your Business",
+        "subtitle": "Fill out the form below to start the claiming process",
+        "formTitle": "Business Claim Form",
+        "requiredFields": "All fields marked with * are required",
+        "businessName": "Business Name *",
+        "businessAddress": "Business Address *",
+        "contactName": "Your Name *",
+        "contactEmail": "Email Address *",
+        "contactPhone": "Phone Number",
+        "website": "Website",
+        "reasonForClaim": "Reason for Claiming *",
+        "additionalInfo": "Additional Information",
+        "placeholders": {
+          "businessName": "Enter your business name",
+          "businessAddress": "Enter your business address",
+          "contactName": "Enter your full name",
+          "contactEmail": "Enter your email address",
+          "contactPhone": "Enter your phone number",
+          "website": "https://your-website.com",
+          "reasonForClaim": "Please explain why you're claiming this business listing...",
+          "additionalInfo": "Any additional information that might help us verify your claim..."
+        },
+        "submit": "Submit Claim Request",
+        "submitting": "Submitting..."
+      },
+      "contact": {
+        "title": "Need Help?",
+        "subtitle": "Our team is here to help you claim your business listing and answer any questions you may have.",
+        "callUs": {
+          "title": "Call Us",
+          "phone": "(+250) 791 568 519",
+          "hours": "Mon - Sunday 24/7"
+        },
+        "emailUs": {
+          "title": "Email Us",
+          "email": "advertise@bara.com",
+          "response": "We'll respond within 24 hours"
+        },
+        "processingTime": {
+          "title": "Processing Time",
+          "time": "2-3 Business Days",
+          "description": "For claim verification"
+        }
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "processingTime": {
+          "question": "How long does it take to process a claim?",
+          "answer": "We typically process claims within 2-3 business days. You'll receive an email notification once your claim has been reviewed."
+        },
+        "requiredInfo": {
+          "question": "What information do I need to provide?",
+          "answer": "You'll need to provide your business name, address, contact information, and explain why you're claiming the listing. Additional documentation may be requested for verification."
+        },
+        "cost": {
+          "question": "Is there a cost to claim my listing?",
+          "answer": "Claiming your basic listing is free. However, premium features and enhanced visibility options are available for a fee."
+        },
+        "notListed": {
+          "question": "What if my business isn't listed yet?",
+          "answer": "If your business isn't currently listed, you can still submit a claim request and we'll help you get your business added to our directory."
+        }
+      },
+      "validation": {
+        "title": "Validation Error",
+        "requiredFields": "Please fill in all required fields."
+      },
+      "success": {
+        "title": "Claim Request Submitted",
+        "description": "Your claim request has been submitted successfully. We'll contact you within 2-3 business days."
+      },
+      "error": {
+        "title": "Error",
+        "description": "Failed to submit claim request. Please try again."
+      }
+    }
+  },
+  "qa": {
+    "askQuestions": "Ask questions to the Bara community",
+    "shareKnowledge": "Share your knowledge to help out others",
+    "findAnswers": "Find answers or offer solutions",
+    "askQuestion": "Ask a Question",
+    "browsePopular": "Browse Popular Questions & Answers"
+  },
+  "questions": {
+    "page": {
+      "title": "Ask a Question",
+      "subtitle": "Get Help from the Community",
+      "description": "Ask your question and get answers from our community of experts and fellow users.",
+      "infoTitle": "How it works:",
+      "info1": "Submit your question with a clear title and detailed description",
+      "info2": "Our community members will provide helpful answers",
+      "info3": "You'll receive email notifications when someone responds",
+      "footer": "© 2024 Bara Community. All rights reserved."
+    },
+    "form": {
+      "titleLabel": "Question Title",
+      "titlePlaceholder": "Enter a clear, descriptive title for your question",
+      "contentLabel": "Question Details",
+      "contentPlaceholder": "Provide detailed information about your question. Be specific to get better answers.",
+      "categoryLabel": "Category",
+      "selectCategory": "Select a category",
+      "nameLabel": "Your Name",
+      "namePlaceholder": "Enter your full name",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "submit": "Submit Question",
+      "submitting": "Submitting...",
+      "submitted": "Question submitted successfully!",
+      "titleRequired": "Please enter a question title",
+      "contentRequired": "Please enter question details",
+      "nameRequired": "Please enter your name",
+      "emailRequired": "Please enter your email address",
+      "categoryRequired": "Please select a category",
+      "submissionError": "Failed to submit question. Please try again.",
+      "characters": "characters"
+    }
+  },
+  "reviews": {
+    "title": "Reviews",
+    "writeReview": "Write a Review",
+    "helpFinding": "Other people need your help finding good businesses.",
+    "writeShare": "Write a review and share your experience.",
+    "findBusiness": "Find the Business",
+    "feedbackImprove": "Businesses need your feedback, both good and bad, so they can improve or get props for a job well done.",
+    "postReview": "Post It",
+    "shareExperience": "Share your experiences and feel good knowing that you are making a difference in your community!",
+    "reviewingBusiness": "Reviewing:",
+    "feedbackMessage": "Businesses need your feedback, both good and bad, so they can improve or get props for a job well done",
+    "shareMessage": "Share your experiences and feel good knowing that you are making a difference in your community!",
+    "addPhotos": "Add Photos (Optional)",
+    "rating": "Rating",
+    "helpful": "Helpful",
+    "notHelpful": "Not Helpful",
+    "report": "Report",
+    "sortBy": "Sort by",
+    "filterBy": "Filter by",
+    "allReviews": "All Reviews",
+    "positiveReviews": "Positive Reviews",
+    "negativeReviews": "Negative Reviews",
+    "searchBusiness": "Search for a Business",
+    "selectBusiness": "Select a Business to Review",
+    "businessName": "Business Name",
+    "location": "Location",
+    "searchResults": "Search Results",
+    "noResults": "No businesses found",
+    "reviewTitle": "Review Title",
+    "reviewContent": "Review Details",
+    "submitReview": "Submit Review",
+    "reviewSubmitted": "Review Submitted!",
+    "reviewPending": "Your review will be published after moderation",
+    "ratingRequired": "Please provide a rating",
+    "titleRequired": "Please provide a review title",
+    "contentRequired": "Please provide review content",
+    "loginRequired": "Please log in to submit a review",
+    "searchError": "Search Error",
+    "searchFailed": "Failed to search for businesses",
+    "submissionError": "Submission Error",
+    "submissionFailed": "Failed to submit review",
+    "backToSearch": "Back to Search",
+    "cancel": "Cancel",
+    "submitting": "Submitting...",
+    "characterCount": "characters",
+    "outOf5": "out of 5"
+  },
+  "auth": {
+    "loginRequired": "Login Required",
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "forgotPassword": "Forgot Password?",
+      "noAccount": "Don't have an account?",
+      "signup": "Sign Up"
+    },
+    "signup": {
+      "title": "Sign Up",
+      "fullName": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "agreeTerms": "I agree to the terms and conditions",
+      "alreadyAccount": "Already have an account?",
+      "login": "Login"
+    }
+  },
+  "footer": {
+    "localCommunities": "Local Communities",
+    "cities": "Cities",
+    "kigaliRwanda": "Kigali, Rwanda",
+    "nairobiKenya": "Nairobi, Kenya",
+    "kampalaUganda": "Kampala, Uganda",
+    "darEsSalaamTanzania": "Dar es Salaam, Tanzania",
+    "addisAbabaEthiopia": "Addis Ababa, Ethiopia",
+    "accraGhana": "Accra, Ghana",
+    "lagosNigeria": "Lagos, Nigeria",
+    "capeTownSouthAfrica": "Cape Town, South Africa",
+    "rwandafulRwanda": "Rwandaful Rwanda",
+    "beautifulBotswana": "Beautiful Botswana",
+    "kenyafulKenya": "Kenyaful Kenya",
+    "ugandafulUganda": "Ugandaful Uganda",
+    "tanzaniafulTanzania": "Tanzaniaful Tanzania",
+    "ethiopiafulEthiopia": "Ethiopiaful Ethiopia",
+    "ghanafulGhana": "Ghanaful Ghana",
+    "nigeriafulNigeria": "Nigeriaful Nigeria",
+    "about": "About",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "advertiseWithUs": "Advertise with Us",
+    "corporateBlog": "Corporate Blog",
+    "advertisingChoices": "Advertising Choices",
+    "AskUsAnyQuestion": "Ask Us Any Question",
+    "ClaimYourListing": "Claim Your Listing",
+    "siteDirectory": "Site Directory",
+    "articles": "Articles",
+    "findBusiness": "Find a Business",
+    "ypMobileApp": "Bara Mobile App",
+    "gasGuruMobileApp": "Gas Guru Mobile App",
+    "siteMap": "Site Map",
+    "categories": "Categories",
+    "browseRestaurants": "Browse Restaurants",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms of Use",
+    "legal": "Legal",
+    "copyright": "© 2025 Bara, Inc. All rights reserved.",
+    "trademark": "",
+    "otherMarks": "All other marks contained herein are the property of their respective owners."
+  },
+  "categories": {
+    "title": "All Categories",
+    "searchPlaceholder": "Search categories...",
+    "noResults": {
+      "title": "No categories found",
+      "description": "Try adjusting your search terms or browse all categories"
+    },
+    "airports": "Airports",
+    "banks": "Banks",
+    "bars": "Bars",
+    "barbers": "Barbers",
+    "bookstores": "Bookstores",
+    "cafes": "Cafes",
+    "cinemas-theatres": "Cinemas & Theatres",
+    "clinics": "Clinics",
+    "clubs-professional": "Clubs (Professional / Private)",
+    "clubs-leisure": "Clubs (Leisure / Dance)",
+    "dentists": "Dentists",
+    "doctors": "Doctors",
+    "faith": "Faith",
+    "farms": "Farms",
+    "galleries-art": "Galleries (Art)",
+    "government": "Government",
+    "hospitals": "Hospitals",
+    "hotels": "Hotels",
+    "lawyers": "Lawyers",
+    "libraries": "Libraries",
+    "markets": "Markets",
+    "museums": "Museums",
+    "parks": "Parks",
+    "pharmacies": "Pharmacies",
+    "post-offices": "Post Offices",
+    "recreation": "Recreation",
+    "real-estate": "Real Estate",
+    "restaurants": "Restaurants",
+    "salons": "Salons",
+    "schools": "Schools",
+    "services": "Services",
+    "shopping": "Shopping",
+    "tours": "Tours",
+    "transportation": "Transportation",
+    "universities": "Universities",
+    "utilities": "Utilities",
+    "auto-repair": "Auto Repair",
+    "coffee-shops": "Coffee Shops",
+    "gyms-fitness": "Gyms & Fitness",
+    "beauty-salons": "Beauty Salons",
+    "pet-services": "Pet Services"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "cities": "Cities",
+    "countries": "Countries",
+    "businesses": "Businesses",
+    "reviews": "Reviews",
+    "users": "Users",
+    "settings": "Settings",
+    "pages": {
+      "users": "Users Management",
+      "usersSubtitle": "Manage user accounts and permissions"
+    },
+    "statistics": "Statistics",
+    "recentActivity": "Recent Activity",
+    "quickActions": "Quick Actions",
+    "systemStatus": "System Status",
+    "addNew": "Add New",
+    "addBusiness": "Add Business",
+    "addCity": "Add City",
+    "addCountry": "Add Country",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "filter": "Filter",
+    "status": "Status",
+    "actions": "Actions",
+    "name": "Name",
+    "code": "Code",
+    "population": "Population",
+    "capital": "Capital",
+    "currency": "Currency",
+    "language": "Language",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "category": "Category",
+    "address": "Address",
+    "phone": "Phone",
+    "website": "Website",
+    "rating": "Rating",
+    "title": "Title",
+    "content": "Content",
+    "user": "User",
+    "business": "Business",
+    "date": "Date",
+    "approved": "Approved",
+    "pending": "Pending",
+    "rejected": "Rejected",
+    "flagged": "Flagged",
+    "total": "Total",
+    "active": "Active",
+    "inactive": "Inactive",
+    "businessesManagement": "Businesses Management",
+    "manageListing": "Manage business listings and verifications",
+    "reviewsManagement": "Reviews Management",
+    "moderateReviews": "Moderate and manage user reviews",
+    "citiesManagement": "Cities Management",
+    "manageCities": "Manage cities and locations",
+    "countriesManagement": "Countries Management",
+    "manageCountries": "Manage countries and regions",
+    "overviewAnalytics": "Overview and analytics",
+    "searchBusinesses": "Search businesses...",
+    "searchReviews": "Search reviews...",
+    "searchCities": "Search cities...",
+    "searchCountries": "Search countries...",
+    "filterByStatus": "Filter by status",
+    "filterByCategory": "Filter by category",
+    "filterByRating": "Filter by rating",
+    "allStatuses": "All Statuses",
+    "allCategories": "All Categories",
+    "allRatings": "All Ratings",
+    "noBusinessesFound": "No businesses found",
+    "noReviewsFound": "No reviews found",
+    "noCitiesFound": "No cities found",
+    "noCountriesFound": "No countries found",
+    "tryAdjustingFilters": "Try adjusting your search terms or filters.",
+    "businessesCount": "businesses",
+    "reviewsCount": "reviews",
+    "citiesCount": "cities",
+    "countriesCount": "countries",
+    "totalUsers": "Total Users",
+    "totalBusinesses": "Total Businesses",
+    "totalCities": "Total Cities",
+    "totalCountries": "Total Countries",
+    "totalReviews": "Total Reviews",
+    "users": {
+      "title": "Users Management",
+      "adminUsers": "Admin Users",
+      "addUser": "Add User",
+      "searchPlaceholder": "Search users...",
+      "tabs": {
+        "users": "Users",
+        "logs": "Activity Logs"
+      },
+      "table": {
+        "name": "Name",
+        "email": "Email",
+        "role": "Role",
+        "permissions": "Permissions",
+        "lastLogin": "Last Login",
+        "actions": "Actions",
+        "user": "User",
+        "action": "Action",
+        "resource": "Resource",
+        "details": "Details",
+        "timestamp": "Timestamp"
+      },
+      "activityLogs": "Activity Logs"
+    },
+    "latestActions": "Latest actions and updates",
+    "commonTasks": "Common administrative tasks",
+    "common": {
+      "refresh": "Refresh"
+    },
+    "viewReports": "View Reports",
+    "allSystemsOperational": "All systems operational",
+    "capacityUsed": "capacity used",
+    "responseTime": "Response time",
+    "database": "Database",
+    "storage": "Storage",
+    "performance": "Performance",
+    "loadingBusinesses": "Loading businesses...",
+    "businessManagement": "Business Management",
+    "manageAllBusinesses": "Manage all businesses in the system",
+    "editBusiness": "Edit Business",
+    "addNewBusiness": "Add New Business",
+    "updateBusinessInfo": "Update business information",
+    "createNewBusinessListing": "Create a new business listing",
+    "businessName": "Business Name",
+    "description": "Description",
+    "selectCategory": "Select category",
+    "selectCity": "Select city",
+    "businessFeatures": "Business Features",
+    "premiumBusiness": "Premium Business",
+    "verifiedBusiness": "Verified Business",
+    "hasCoupons": "Has Coupons",
+    "acceptsOrdersOnline": "Accepts Orders Online",
+    "kidFriendly": "Kid Friendly",
+    "cancel": "Cancel",
+    "update": "Update",
+    "create": "Create",
+    "error": "Error",
+    "success": "Success",
+    "validationError": "Validation Error",
+    "pleaseFillRequiredFields": "Please fill in all required fields",
+    "businessUpdatedSuccessfully": "Business updated successfully",
+    "businessCreatedSuccessfully": "Business created successfully",
+    "failedToSaveBusiness": "Failed to save business",
+    "confirmDeleteBusiness": "Are you sure you want to delete this business?",
+    "businessDeletedSuccessfully": "Business deleted successfully",
+    "failedToDeleteBusiness": "Failed to delete business",
+    "failedToFetchBusinesses": "Failed to fetch businesses",
+    "tryAdjustingSearchTerms": "Try adjusting your search terms or filters.",
+    "reviews": "reviews",
+    "approve": "Approve",
+    "reject": "Reject",
+    "flag": "Flag",
+    "view": "View",
+    "updateSuccess": "Update successful",
+    "updateError": "Update failed",
+    "deleteSuccess": "Delete successful",
+    "deleteError": "Delete failed",
+    "statusUpdated": "Status updated successfully",
+    "reviewFlagged": "Review flagged successfully",
+    "stars": "Crowns",
+    "outOf5Stars": "out of 5 crowns"
+  },
+  "lookForBusinesses": "Look for businesses by name and location.",
+  "findBusiness": "Find the Business",
+  "sentenceOne": "Rate and Review",
+  "sentenceTwo": "Post It",
+  "ReviewMessageOne": "Review",
+  "reviewMessage": " a Business and Help Others!",
+  "listings": {
+    "searchResults": "Search Results",
+    "mapView": "Map View",
+    "listView": "List View",
+    "all": "All",
+    "orderOnline": "Order Online",
+    "kidFriendly": "Kid Friendly",
+    "coupons": "Coupons",
+    "premium": "Premium",
+    "verified": "Verified",
+    "sort": "Sort:",
+    "default": "Default",
+    "distance": "Distance",
+    "rating": "Rating",
+    "nameAZ": "Name (A - Z)",
+    "businessesFound": "businesses found",
+    "noBusinessesFound": "No businesses found",
+    "noBusinessesMatching": "No businesses found matching",
+    "noBusinessesInCategory": "No businesses found in",
+    "clearFilters": "Clear Filters",
+    "moreInfo": "More Info",
+    "writeReview": "Write a Review",
+    "inCity": "in",
+    "showingBusinesses": "Showing",
+    "businessesInCity": "businesses in",
+    "businessesFoundCount": "Businesses found",
+    "selectCity": "Select a City",
+    "citiesWithBusinesses": "Cities with",
+    "businessesInCategory": "businesses",
+    "showAllCities": "Show all cities",
+    "allCities": "All cities",
+    "business": "business",
+    "businesses": "businesses",
+    "errorLoadingBusinesses": "Error Loading Businesses",
+    "errorMessage": "An error occurred while loading businesses. Please try again.",
+    "tryAgain": "Try Again",
+    "loadingCities": "Loading cities...",
+    "searchPlaceholder": "Search",
+    "findButton": "FIND"
+  },
+  "cityDetail": {
+    "title": "City Details",
+    "backToHome": "Back to Home",
+    "cityNotFound": "City Not Found",
+    "searchBusinesses": "Search Businesses",
+    "errorLoadingBusinesses": "Error Loading Businesses",
+    "errorMessage": "An error occurred while loading businesses. Please try again.",
+    "tryAgain": "Try Again",
+    "clearFilters": "Clear Filters",
+    "moreInfo": "More Info",
+    "writeReview": "Write a Review",
+    "business": "business",
+    "reviews": "reviews",
+    "cities": {
+      "kigali": "Kigali, the capital and largest city of Rwanda, is a shining example of urban transformation in East Africa. Renowned for its impeccably clean streets, Kigali has earned a reputation as one of the continent's tidiest capitals. The city is a dynamic hub for business, technology, and tourism, boasting modern infrastructure with sleek skyscrapers, well-maintained roads, and a burgeoning tech ecosystem often dubbed the \"Silicon Valley of East Africa.\" Its vibrant culture is reflected in lively markets, traditional Rwandan dance and music, and annual festivals like KigaliUp. Kigali's rapid development, coupled with its commitment to sustainability and green spaces, such as the Kigali Genocide Memorial gardens, makes it a model for urban progress in the region.",
+      "nairobi": "Nairobi, the capital and largest city of Kenya, is affectionately known as the \"Green City in the Sun\" due to its lush greenery and pleasant climate. As a major economic powerhouse in East Africa, Nairobi hosts the regional headquarters of numerous multinational corporations and the Nairobi Securities Exchange. Its diverse population, drawn from Kenya's many ethnic groups, contributes to a rich cultural tapestry evident in its cuisine, music, and festivals like the Nairobi International Film Festival. Nairobi serves as the gateway to Kenya's world-renowned wildlife parks, such as the Maasai Mara and Nairobi National Park, where visitors can spot lions and giraffes with the city skyline in the background.",
+      "kampala": "Kampala, the capital and largest city of Uganda, is famously built across seven hills, giving it a distinctive topography and charm. The city is a vibrant commercial and cultural center, home to bustling markets like Owino and Nakasero, where vendors sell everything from fresh produce to traditional crafts. Kampala's rich history is showcased in sites like the Uganda Museum and the Kasubi Tombs, a UNESCO World Heritage Site. As a hub for education, it hosts Makerere University, one of Africa's oldest and most prestigious institutions. With a growing economy driven by trade, manufacturing, and services, Kampala's diverse population and lively nightlife make it a dynamic urban center in East Africa.",
+      "dar-es-salaam": "Dar es Salaam, Tanzania's largest city and economic hub, thrives along the Indian Ocean coast, blending coastal beauty with urban vitality. Known for its pristine beaches like Coco Beach and its bustling harbor, the city serves as Tanzania's primary port, facilitating trade across East Africa and beyond. Its diverse culture, influenced by African, Arab, and Indian communities, is evident in its cuisine, music, and festivals like the Swahili Fashion Week. Dar es Salaam's skyline, dotted with modern high-rises, reflects its growing business sector, particularly in finance and technology, while historic sites like the Askari Monument and the National Museum highlight its rich colonial and pre-colonial heritage.",
+      "addis-ababa": "Addis Ababa, the capital and largest city of Ethiopia, is the political heart of Africa, hosting the African Union headquarters and numerous diplomatic missions. Nestled in the highlands, the city is steeped in history, with landmarks like the Holy Trinity Cathedral and the National Museum, home to the famous Lucy fossil. Addis Ababa's diverse culture is reflected in its vibrant markets, traditional coffee ceremonies, and annual festivals like Meskel. The city's economy is booming, with sectors like manufacturing, technology, and hospitality driving growth. Its blend of ancient traditions and modern development makes Addis Ababa a unique and influential urban center in East Africa.",
+      "accra": "Accra, the capital and largest city of Ghana, is a vibrant coastal metropolis known for its golden beaches, such as Labadi Beach, and a dynamic cultural scene. As a major financial hub in West Africa, Accra is home to the Ghana Stock Exchange and numerous corporate headquarters. Its rich culture shines through in its music, with genres like highlife and hiplife, and festivals like Chale Wote Street Art Festival. Accra's modern infrastructure, including shopping malls and high-rise buildings, contrasts with historic sites like the Kwame Nkrumah Mausoleum, creating a city that blends tradition with rapid urban growth and a thriving arts community.",
+      "lagos": "Lagos, Nigeria's largest city and economic powerhouse, is a bustling megalopolis known for its vibrant energy and cultural diversity. As West Africa's leading financial center, it hosts the Nigerian Stock Exchange and numerous multinational corporations. Lagos is famous for its dynamic music scene, birthing genres like Afrobeats, and its thriving Nollywood film industry. The city's markets, such as Balogun and Computer Village, are hives of activity, offering everything from textiles to electronics. Despite its fast-paced urban life, Lagos boasts stunning beaches like Tarkwa Bay and cultural landmarks like the National Theatre, making it a cornerstone of West African commerce and culture.",
+      "cape-town": "Cape Town, the legislative capital of South Africa, is renowned for its breathtaking natural beauty, dominated by the iconic Table Mountain and surrounded by the Atlantic Ocean. A major tourist destination, the city offers attractions like the V&A Waterfront, Robben Island, and the Cape Winelands. Its diverse culture, shaped by African, European, and Asian influences, is evident in its cuisine, festivals, and vibrant arts scene. Cape Town is also a significant business hub, with a growing tech sector and international trade links. Its stunning coastline, vibrant townships, and rich history make it one of Africa's most picturesque and culturally rich cities.",
+      "johannesburg": "Johannesburg, South Africa's largest city and economic hub, is often called the \"City of Gold\" due to its origins as a gold-mining town in the late 19th century. Today, it's Africa's financial capital, home to the Johannesburg Stock Exchange and numerous corporate headquarters. The city's rich history is explored in sites like the Apartheid Museum and Constitution Hill. Johannesburg's modern skyline, with towering skyscrapers, contrasts with its vibrant townships like Soweto, where cultural heritage thrives through music, dance, and street art. Its dynamic economy and cosmopolitan population make it a key player in African and global markets.",
+      "cairo": "Cairo, the capital and largest city of Egypt, is a historic metropolis that blends ancient wonders with modern vibrancy. Known as the \"City of a Thousand Minarets,\" Cairo is home to the Giza Pyramids, the Sphinx, and the Egyptian Museum, housing treasures of ancient Egyptian civilization. Its vibrant culture is reflected in its bustling souks like Khan el-Khalili, Islamic architecture, and Coptic heritage sites. As North Africa's economic and cultural hub, Cairo thrives with a mix of traditional coffeehouses, modern malls, and a burgeoning tech scene, making it a city where history and modernity coexist harmoniously.",
+      "alexandria": "Alexandria, Egypt's second-largest city, is a Mediterranean gem known for its rich history and stunning coastline. Once home to the ancient Lighthouse of Alexandria and the Great Library, the city retains its cultural significance with landmarks like the Bibliotheca Alexandrina, a modern tribute to its ancient predecessor. Alexandria's economy thrives on its strategic port, a key hub for Mediterranean trade, and its tourism industry, which draws visitors to its corniche, historic forts, and Greco-Roman ruins. The city's blend of African, Arab, and European influences creates a unique cultural mosaic, evident in its cuisine and vibrant arts scene.",
+      "casablanca": "Casablanca, Morocco's largest city and economic hub, is a modern metropolis on the Atlantic coast, known for its striking architecture, including the grand Hassan II Mosque with its towering minaret. As the country's primary port, it drives Morocco's economy through trade, finance, and industry. The city's cosmopolitan vibe is reflected in its blend of Art Deco buildings, bustling markets, and vibrant nightlife. Casablanca's growing tech and startup scene, alongside its historic medina and coastal promenade, make it a dynamic center of commerce and culture in North Africa.",
+      "marrakech": "Marrakech, a major city in Morocco, is a cultural treasure known for its historic medina, a UNESCO World Heritage Site, and vibrant souks filled with spices, textiles, and intricate crafts. The city's iconic Jemaa el-Fnaa square pulses with storytellers, musicians, and food stalls, embodying Morocco's rich heritage. Marrakech is a top tourist destination, with stunning palaces like Bahia and gardens like Jardin Majorelle. Its blend of Berber, Arab, and French influences, along with a growing hospitality and arts sector, makes it a captivating cultural and economic hub in Morocco.",
+      "butare": "Butare, now known as Huye, is a city in southern Rwanda celebrated for its academic and cultural significance. Home to the University of Rwanda's main campus, it is a hub for education and research, attracting scholars across the region. Butare's cultural institutions, such as the Ethnographic Museum, showcase Rwanda's history and traditions through artifacts and exhibits. The city's quiet charm, tree-lined streets, and historical sites, including colonial-era buildings, make it a center for intellectual and cultural exploration, with a growing focus on community-driven development and tourism.",
+      "mombasa": "Mombasa, Kenya's coastal gem, is a historic port city known for its pristine beaches, such as Diani and Nyali, and its strategic harbor, a key trade gateway for East Africa. The city's rich history, shaped by African, Arab, and European influences, is evident in landmarks like Fort Jesus, a UNESCO World Heritage Site, and the Old Town's Swahili architecture. Mombasa's vibrant culture shines through its seafood cuisine, taarab music, and festivals. As a major tourist and economic center, it blends coastal relaxation with a thriving trade and hospitality industry.",
+      "jinja": "Jinja, a city in eastern Uganda, is famously located at the source of the Nile River, making it a magnet for adventure tourism. Known for white-water rafting, bungee jumping, and kayaking, Jinja attracts thrill-seekers from around the world. The city's economy is growing, driven by tourism, agriculture, and small-scale industries. Historical sites like the Source of the Nile monument and colonial-era buildings add to its charm. Jinja's scenic beauty, with lush greenery and river views, combined with its vibrant markets, makes it a unique destination in East Africa.",
+      "arusha": "Arusha, a city in northern Tanzania, is the gateway to some of Africa's most iconic natural wonders, including Mount Kilimanjaro, the Serengeti National Park, and the Ngorongoro Crater. Known as the \"Safari Capital,\" Arusha thrives on its tourism industry, offering access to world-class wildlife experiences. The city's vibrant markets, such as the Maasai Market, showcase local crafts and culture. Arusha also serves as a diplomatic hub, hosting the East African Community headquarters. Its growing business sector and stunning backdrop of Mount Meru make it a vital economic and cultural center.",
+      "dire-dawa": "Dire Dawa, a city in eastern Ethiopia, is a key transportation and commercial hub, strategically located along the Addis Ababa-Djibouti railway. Known for its diverse population, including Ethiopian, Somali, and Oromo communities, the city boasts a rich cultural blend evident in its markets, cuisine, and festivals. Dire Dawa's economy is driven by trade, manufacturing, and agriculture, with its historic railway station and colonial architecture adding historical depth. The city's vibrant street life, coupled with its role as a logistics hub, makes it an essential part of Ethiopia's economic landscape.",
+      "kumasi": "Kumasi, Ghana's second-largest city, is the cultural heart of the Ashanti Kingdom, renowned for its rich traditions and history. The city is home to the Manhyia Palace, the seat of the Asantehene, and vibrant markets like Kejetia, one of West Africa's largest open-air markets. Kumasi's cultural heritage is celebrated through festivals like Akwasidae and its intricate kente cloth weaving. As a growing economic center, it supports industries like timber, agriculture, and retail. Kumasi's blend of royal heritage, bustling commerce, and vibrant arts scene makes it a cornerstone of Ghanaian identity."
+    }
+  },
+  "featuredBusinesses": {
+    "featuredBusinesses": "Featured Businesses",
+    "featuredCategory": "Featured {{category}}",
+    "sponsored": "Sponsored",
+    "ad": "Ad",
+    "reviews": "reviews",
+    "website": "Website",
+    "directions": "Directions",
+    "moreInfo": "More Info"
+  },
+  "businessFeatures": {
+    "hasCoupons": "Has Coupons",
+    "acceptsOrdersOnline": "Accepts Orders Online",
+    "isKidFriendly": "Kid Friendly",
+    "isPremium": "Premium Business",
+    "isVerified": "Verified Business"
+  },
+  "advertise": {
+    "hero": {
+      "title": "Grow Your Business with Bara",
+      "subtitle": "Reach millions of customers and boost your visibility with our powerful advertising solutions",
+      "getStarted": "Get Started",
+      "learnMore": "Learn More"
+    },
+    "stats": {
+      "monthlyVisitors": "Monthly Visitors",
+      "businesses": "Businesses Listed",
+      "satisfaction": "Customer Satisfaction"
+    },
+    "services": {
+      "title": "Our Advertising Services",
+      "subtitle": "Choose the perfect solution to grow your business and reach more customers",
+      "premium": {
+        "title": "Premium Listing",
+        "description": "Stand out from the competition with enhanced visibility and premium placement",
+        "feature1": "Enhanced search ranking",
+        "feature2": "Premium placement in results",
+        "feature3": "Detailed business showcase",
+        "cta": "Get Premium Listing"
+      },
+      "targeted": {
+        "title": "Targeted Advertising",
+        "description": "Reach your ideal customers with precision-targeted advertising campaigns",
+        "feature1": "Geographic targeting",
+        "feature2": "Demographic filtering",
+        "feature3": "Behavioral insights",
+        "cta": "Start Advertising"
+      },
+      "analytics": {
+        "title": "Analytics & Insights",
+        "description": "Track your performance and optimize your campaigns with detailed analytics",
+        "feature1": "Real-time performance data",
+        "feature2": "Customer behavior insights",
+        "feature3": "ROI tracking & reporting",
+        "cta": "View Analytics"
+      }
+    },
+    "whyChoose": {
+      "title": "Why Choose Bara for Advertising?",
+      "subtitle": "We provide the tools and reach you need to grow your business effectively",
+      "reach": {
+        "title": "Massive Reach",
+        "description": "Access to millions of potential customers actively searching for businesses like yours"
+      },
+      "growth": {
+        "title": "Proven Growth",
+        "description": "Businesses see an average 40% increase in customer inquiries within the first month"
+      },
+      "local": {
+        "title": "Local Focus",
+        "description": "Specialized in connecting local businesses with local customers in your area"
+      },
+      "visibility": {
+        "title": "Enhanced Visibility",
+        "description": "Stand out in search results and get noticed by customers looking for your services"
+      }
+    },
+    "cta": {
+      "title": "Ready to Grow Your Business?",
+      "description": "Join thousands of businesses that trust Bara to help them reach more customers and grow their revenue",
+      "primaryButton": "Start Advertising Today",
+      "secondaryButton": "Schedule a Consultation"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "subtitle": "Our advertising experts are here to help you succeed",
+      "phone": {
+        "title": "Phone Support",
+        "hours": "Mon - Sunday 24/7"
+      },
+      "email": {
+        "title": "Email Support",
+        "response": "Response within 24 hours"
+      },
+      "location": {
+        "title": "Visit Our Office",
+        "address": "Kigali, Rwanda",
+        "visit": "Schedule a meeting"
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "We're here to help. Get in touch with our team for any questions or support you need."
+    },
+    "form": {
+      "title": "Send us a Message",
+      "description": "Fill out the form below and we'll get back to you as soon as possible.",
+      "firstName": "First Name",
+      "firstNamePlaceholder": "Enter your first name",
+      "lastName": "Last Name",
+      "lastNamePlaceholder": "Enter your last name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email address",
+      "phone": "Phone",
+      "phonePlaceholder": "Enter your phone number",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is this about?",
+      "message": "Message",
+      "messagePlaceholder": "Tell us how we can help you...",
+      "sendMessage": "Send Message"
+    },
+    "info": {
+      "general": {
+        "title": "General Information",
+        "phone": "Phone",
+        "email": "Email",
+        "address": "Address",
+        "addressValue": "Kigali, Rwanda",
+        "hours": "Business Hours",
+        "hoursValue": "Mon - Sunday 24/7"
+      },
+      "support": {
+        "title": "Customer Support",
+        "phone": "Support Phone",
+        "phoneHours": "Available 24/7",
+        "email": "Support Email",
+        "emailResponse": "Response within 2 hours"
+      },
+      "business": {
+        "title": "Business Inquiries",
+        "email": "Business Email",
+        "description": "For partnerships, advertising, and business opportunities",
+        "learnMore": "Learn More About Business Services"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Find quick answers to common questions about our services",
+      "question1": "How can I claim my business listing?",
+      "answer1": "You can claim your business listing by visiting our claim page and following the simple verification process. We'll guide you through each step.",
+      "question2": "What advertising options do you offer?",
+      "answer2": "We offer premium listings, targeted advertising campaigns, and analytics tools to help you reach more customers and grow your business.",
+      "question3": "How do I update my business information?",
+      "answer3": "Once you've claimed your listing, you can easily update your business information, hours, photos, and more through your business dashboard.",
+      "question4": "What support do you provide for businesses?",
+      "answer4": "We provide comprehensive support including phone support, email assistance, and dedicated account managers for premium customers."
+    },
+    "cta": {
+      "title": "Need More Help?",
+      "description": "Our team is ready to assist you with any questions or concerns you may have",
+      "primaryButton": "Contact Support",
+      "secondaryButton": "Browse Help Center"
+    }
+  }
+}
+

@@ -1,0 +1,327 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* BARA LISTINGS Brand Colors */
+    --yp-yellow: 48 100% 50%; /* Updated to CMYK 5, 20, 100, 0 converted to HSL */
+    --yp-yellow-hover: 48 100% 45%; /* Adjusted hover state for new yellow */
+    --yp-dark: 0 0% 15%;
+    --yp-gray-light: 0 0% 96%;
+    --yp-gray-medium: 0 0% 75%;
+    --yp-gray-dark: 0 0% 35%;
+    --yp-blue: 48 100% 50%;
+    --yp-green: 152 100% 35%;
+    
+    --background: 0 0% 100%;
+    --foreground: 0 0% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 15%;
+
+    --primary: 0 70% 100%;
+    --primary-foreground: 0 0% 15%;
+
+    --secondary: 48 100% 50%; /* Updated to match new yellow */
+    --secondary-foreground: 0 0% 15%;
+
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 45%;
+
+    --accent: 0 70% 100%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 0 0% 90%;
+    --input: 0 0% 100%;
+    --ring: 0 70% 100%;
+
+    --radius: 0.5rem;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-roboto;
+  }
+
+  /* Typography System */
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-comfortaa font-semibold;
+  }
+
+  h1 {
+    @apply text-4xl font-bold;
+  }
+
+  h2 {
+    @apply text-3xl font-semibold;
+  }
+
+  h3 {
+    @apply text-2xl font-medium;
+  }
+
+  h4 {
+    @apply text-xl font-medium;
+  }
+
+  h5 {
+    @apply text-lg font-medium;
+  }
+
+  h6 {
+    @apply text-base font-medium;
+  }
+
+  p, span, div, li, a, button, input, textarea, label {
+    @apply font-roboto;
+  }
+
+  /* Card titles and section headers */
+  .card-title, .section-title, .page-title {
+    @apply font-comfortaa font-semibold;
+  }
+
+  /* Navigation and menu items */
+  .nav-item, .menu-item {
+    @apply font-roboto font-medium;
+  }
+
+  /* Buttons */
+  .btn-primary, .btn-secondary {
+    @apply font-roboto font-medium;
+  }
+
+  /* Form elements */
+  .form-label, .form-input, .form-textarea {
+    @apply font-roboto;
+  }
+}
+
+@layer utilities {
+  /* Line clamp utilities */
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* Admin dashboard specific styles */
+  .admin-sidebar {
+    @apply bg-white border-r border-gray-200;
+  }
+
+  .admin-card {
+    @apply bg-white rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition-shadow duration-200;
+  }
+
+  .admin-button {
+    @apply font-roboto font-medium transition-all duration-200;
+  }
+
+  /* Animation utilities */
+  .animate-in {
+    animation-fill-mode: both;
+  }
+
+  .fade-in-0 {
+    animation-name: fadeIn;
+    animation-duration: 0.5s;
+    animation-timing-function: ease-out;
+  }
+
+  .slide-in-from-bottom-2 {
+    animation-name: slideInFromBottom;
+    animation-duration: 0.5s;
+    animation-timing-function: ease-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes slideInFromBottom {
+    from {
+      opacity: 0;
+      transform: translateY(1rem);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/* Global button hover standardization */
+@layer components {
+  .button {
+    transition: background-color 0.3s ease;
+  }
+
+  .button:hover {
+    background-color: #8B4513;
+  }
+}
+
+@layer components {
+  /* Override dropdown menu item hover colors */
+  .dropdown-menu-item-override {
+    background-color: white !important;
+  }
+  
+  .dropdown-menu-item-override:hover {
+    background-color: rgb(243 244 246) !important; /* gray-100 */
+  }
+  
+  .dropdown-menu-item-override:focus {
+    background-color: rgb(243 244 246) !important; /* gray-100 */
+  }
+  
+  .dropdown-menu-item-override[data-highlighted="true"] {
+    background-color: rgb(243 244 246) !important; /* gray-100 */
+  }
+  
+  .dropdown-menu-item-override[data-state="open"] {
+    background-color: rgb(243 244 246) !important; /* gray-100 */
+  }
+
+  /* Smooth dropdown animations */
+  .dropdown-enter {
+    opacity: 0;
+    transform: scale(0.95) translateY(-10px);
+  }
+  
+  .dropdown-enter-active {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+    transition: opacity 200ms ease-out, transform 200ms ease-out;
+  }
+  
+  .dropdown-exit {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+  
+  .dropdown-exit-active {
+    opacity: 0;
+    transform: scale(0.95) translateY(-10px);
+    transition: opacity 200ms ease-in, transform 200ms ease-in;
+  }
+
+  /* Mobile menu slide animations */
+  .mobile-menu-enter {
+    transform: translateX(100%);
+  }
+  
+  .mobile-menu-enter-active {
+    transform: translateX(0%);
+    transition: transform 300ms ease-out;
+  }
+  
+  .mobile-menu-exit {
+    transform: translateX(0%);
+  }
+  
+  .mobile-menu-exit-active {
+    transform: translateX(100%);
+    transition: transform 300ms ease-in;
+  }
+
+  /* Cities section expand/collapse animation */
+  .cities-expand-enter {
+    max-height: 0;
+    opacity: 0;
+  }
+  
+  .cities-expand-enter-active {
+    max-height: 400px;
+    opacity: 1;
+    transition: max-height 300ms ease-out, opacity 300ms ease-out;
+  }
+  
+  .cities-expand-exit {
+    max-height: 400px;
+    opacity: 1;
+  }
+  
+  .cities-expand-exit-active {
+    max-height: 0;
+    opacity: 0;
+    transition: max-height 300ms ease-in, opacity 300ms ease-in;
+  }
+}

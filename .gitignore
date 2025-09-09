@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.env.local
+node_modules
+dist
+dist-ssr
+*.local
+newtxt.txt
+/.env
+.env
+/src/components/CityMapGoogle.tsx
+/src/components/CityMapLeafletCallback.tsx
+/src/components/CityMapLeafletInline.tsx
+/src/components/CityMapLeafletRobust.tsx
+/src/components/CityMapLeafletSimple.tsx
+/src/components/SimpleMapTest.tsx
+
+ADMIN_DASHBOARD_README.md
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
