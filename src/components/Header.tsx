@@ -134,13 +134,14 @@ export const Header = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-4">
         <div className="flex items-center justify-between h-30">
           {/* Logo */}
-          <div className="flex items-center">
+          <div className="flex items-center gap-2">
             <Link to="/">
               <div className="flex items-center py-4">
                 <img src="/bara-3.png" className="w-30 h-16" alt="Logo picture" />
                 <img src="/bara-1-removebg-preview.png" className="w-30 h-16" alt="Logo picture" />
               </div>
             </Link>
+            <span className="bg-blue-500 text-white text-xs px-2 py-1 rounded-full">🚀 Testing</span>
           </div>
 
           {/* Desktop Navigation */}
